@@ -19,7 +19,7 @@ plt.figure(figsize=(12, 6))
 boxplot_dict = plt.boxplot(boxplot_data, patch_artist=True, labels=[col.split()[-1] for col in cpi_score_columns])
 
 # Set the labels and title
-plt.title('Yearly CPI Scores Distribution')
+plt.title('Median CPI Scores by Year')
 plt.xlabel('Year')
 plt.ylabel('CPI Score')
 plt.xticks(rotation=45)
