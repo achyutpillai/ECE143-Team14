@@ -6,7 +6,7 @@ y = []
 data = []
 
   
-with open('cpidata.csv','r') as csvfile: 
+with open('cpidata2023.csv','r') as csvfile: 
     plots = csv.reader(csvfile, delimiter = ',')
     next(plots, None) 
       
@@ -23,7 +23,7 @@ x, y = zip(*bottom_10_countries)
 plt.bar(x, y, color='r', width=0.5, label="CPI")
 plt.xlabel('Countries')
 plt.ylabel('Corruption Perceptions Index')
-plt.title('Bottom 10 CPI Scores')
+plt.title('Bottom 10 CPI Scores 2023')
 plt.xticks(rotation=45)  # Rotate country names for better readability
 plt.legend()
 plt.tight_layout()  # Adjust layout to make room for the rotated x-axis labels
