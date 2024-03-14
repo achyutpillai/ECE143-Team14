@@ -1,0 +1,1519 @@
+Continent,Year,Healthcare Access,Happiness score,Country name
+Asia,2014,53.90752,4.758,Afghanistan
+Asia,2015,52.11036,3.832,Afghanistan
+Asia,2016,52.06367,3.783,Afghanistan
+Asia,2017,48.35519,3.572,Afghanistan
+Asia,2018,52.55684,3.131,Afghanistan
+Asia,2019,52.85972,3.983,Afghanistan
+Asia,2020,55.90718,4.22,Afghanistan
+Asia,2021,49.08801,2.662,Afghanistan
+Asia,2022,50.75158,2.694,Afghanistan
+Asia,2023,41.99729,2.375,Afghanistan
+Europe,2014,83.30466,4.634,Albania
+Europe,2015,73.31523,5.485,Albania
+Europe,2016,75.94338,5.269,Albania
+Europe,2017,78.45018,5.867,Albania
+Europe,2018,75.94767,5.51,Albania
+Europe,2019,62.55869,4.551,Albania
+Europe,2020,63.93561,4.814,Albania
+Europe,2021,63.84115,4.607,Albania
+Europe,2022,63.76983,4.511,Albania
+Europe,2023,68.35917,4.64,Albania
+Africa,2014,70.18828,5.365,Algeria
+Africa,2015,0,5.255,Algeria
+Africa,2015,81.02345,5.212,Algeria
+Africa,2016,83.93969,5.464,Algeria
+Africa,2017,81.81894,5.317,Algeria
+Africa,2018,74.85883,5.605,Algeria
+Africa,2019,80.67539,6.355,Algeria
+Africa,2020,79.86513,5.341,Algeria
+Africa,2021,80.32587,5.249,Algeria
+Africa,2022,86.76489,5.043,Algeria
+Africa,2023,84.07103,4.745,Algeria
+Africa,2014,72.15908,5.589,Angola
+Africa,2015,75.46155,4.36,Angola
+Africa,2016,93.84628,3.937,Angola
+Africa,2017,86.22056,3.795,Angola
+Africa,2018,89.21945,6.313,Angola
+Africa,2019,91.86932,6.073,Angola
+Africa,2020,92.67986,5.961,Angola
+Africa,2021,88.90735,6.424,Angola
+Africa,2022,90.17764,6.441,Angola
+Africa,2023,90.98742,6.776,Angola
+Americas,2014,88.28191,6.671,Argentina
+Americas,2015,90.66991,6.697,Argentina
+Americas,2016,89.99116,6.427,Argentina
+Americas,2017,89.63705,6.039,Argentina
+Americas,2018,89.71038,5.793,Argentina
+Americas,2019,88.23045,6.086,Argentina
+Americas,2020,68.18768,5.901,Argentina
+Americas,2021,75.96443,5.908,Argentina
+Americas,2022,70.94855,6.261,Argentina
+Americas,2023,68.00069,4.289,Argentina
+Asia,2014,67.64464,4.178,Armenia
+Asia,2015,72.326,4.368,Armenia
+Asia,2016,73.87635,4.26,Armenia
+Asia,2017,72.2551,4.32,Armenia
+Asia,2018,70.92183,4.277,Armenia
+Asia,2019,69.79249,4.453,Armenia
+Asia,2020,81.4449,4.348,Armenia
+Asia,2021,78.16039,4.325,Armenia
+Asia,2022,76.20441,4.288,Armenia
+Asia,2023,96.78922,5.062,Armenia
+Oceania,2014,95.45196,5.382,Australia
+Oceania,2015,96.70292,7.341,Australia
+Oceania,2016,94.4599,7.285,Australia
+Oceania,2017,92.82052,7.254,Australia
+Oceania,2018,92.37987,7.45,Australia
+Oceania,2019,95.18616,7.406,Australia
+Oceania,2020,94.23342,7.196,Australia
+Oceania,2021,94.99578,7.364,Australia
+Oceania,2022,94.01373,7.289,Australia
+Oceania,2023,94.27744,7.309,Australia
+Europe,2014,93.63504,7.177,Austria
+Europe,2015,93.45928,7.234,Austria
+Europe,2016,91.41933,7.137,Austria
+Europe,2017,94.41568,7.112,Austria
+Europe,2018,94.51424,7.035,Austria
+Europe,2019,94.98092,7.122,Austria
+Europe,2020,89.89205,7.181,Austria
+Europe,2021,92.81103,7.303,Austria
+Europe,2022,92.63186,7.471,Austria
+Europe,2023,90.62178,7.401,Austria
+Asia,2014,92.48312,7.076,Azerbaijan
+Asia,2015,86.2976,7.048,Azerbaijan
+Asia,2016,85.44149,7.294,Azerbaijan
+Asia,2017,75.32468,7.396,Azerbaijan
+Asia,2018,68.42672,7.195,Azerbaijan
+Asia,2019,73.59703,7.213,Azerbaijan
+Asia,2020,68.7001,7.08,Azerbaijan
+Asia,2021,72.51939,6.999,Azerbaijan
+Asia,2022,76.18732,4.728,Azerbaijan
+Asia,2023,76.96902,4.568,Azerbaijan
+Asia,2014,77.7271,4.219,Bahrain
+Asia,2015,78.70394,4.68,Bahrain
+Asia,2016,78.12299,4.911,Bahrain
+Asia,2017,88.67564,5.481,Bahrain
+Asia,2018,90.41435,5.252,Bahrain
+Asia,2019,87.71151,5.147,Bahrain
+Asia,2020,90.78677,5.304,Bahrain
+Asia,2021,91.13496,5.152,Bahrain
+Asia,2022,88.37805,5.168,Bahrain
+Asia,2023,90.09,5.173,Bahrain
+Asia,2014,87.57471,4.824,Bangladesh
+Asia,2015,87.79294,5.027,Bangladesh
+Asia,2016,84.77451,6.69,Bangladesh
+Asia,2017,67.20022,6.165,Bangladesh
+Asia,2018,51.41707,6.007,Bangladesh
+Asia,2019,46.65535,6.17,Bangladesh
+Asia,2020,52.78136,6.227,Bangladesh
+Asia,2021,54.93985,7.098,Bangladesh
+Asia,2022,60.6459,6.173,Bangladesh
+Asia,2023,58.17653,4.319,Bangladesh
+Europe,2014,60.14683,5.083,Belarus
+Europe,2015,64.91169,4.858,Belarus
+Europe,2016,71.25528,4.986,Belarus
+Europe,2017,70.5556,4.724,Belarus
+Europe,2018,67.31722,4.66,Belarus
+Europe,2019,73.93379,4.636,Belarus
+Europe,2020,91.78987,4.633,Belarus
+Europe,2021,85.75277,4.556,Belarus
+Europe,2022,90.37004,4.31,Belarus
+Europe,2023,90.77778,4.499,Belarus
+Europe,2014,88.02589,5.658,Belgium
+Europe,2015,92.40726,5.617,Belgium
+Europe,2016,92.65511,5.463,Belgium
+Europe,2017,90.02558,5.564,Belgium
+Europe,2018,90.45693,5.526,Belgium
+Europe,2019,91.67405,5.225,Belgium
+Europe,2020,93.48747,5.749,Belgium
+Europe,2021,92.16028,5.876,Belgium
+Europe,2022,92.2977,5.812,Belgium
+Africa,2014,92.7117,5.553,Benin
+Africa,2015,90.91862,5.234,Benin
+Africa,2016,94.35492,5.821,Benin
+Africa,2017,88.52088,7.262,Benin
+Africa,2018,92.89641,7.219,Benin
+Africa,2019,92.16391,7.117,Benin
+Africa,2020,92.98155,6.854,Benin
+Africa,2021,88.42305,7.111,Benin
+Africa,2022,90.35587,6.935,Benin
+Asia,2014,44.47812,6.904,Bhutan
+Asia,2015,38.23735,6.949,Bhutan
+Asia,2016,47.74944,6.928,Bhutan
+Asia,2017,52.30273,6.892,Bhutan
+Asia,2018,57.68231,6.772,Bhutan
+Asia,2019,50.60913,6.839,Bhutan
+Asia,2020,43.43885,6.882,Bhutan
+Asia,2021,49.28159,6.857,Bhutan
+Asia,2022,43.5879,6.451,Bhutan
+Americas,2014,50.66361,3.667,Bolivia
+Americas,2015,43.55242,3.87,Bolivia
+Americas,2016,81.8949,3.193,Bolivia
+Americas,2017,88.03419,3.479,Bolivia
+Americas,2018,84.75744,3.347,Bolivia
+Americas,2019,83.428,3.625,Bolivia
+Americas,2020,79.61365,4.007,Bolivia
+Americas,2021,78.52623,4.853,Bolivia
+Americas,2022,83.13199,5.82,Bolivia
+Europe,2014,78.08194,4.493,Bosnia and Herzegovina
+Europe,2015,80.27381,4.217,Bosnia and Herzegovina
+Europe,2016,82.13446,5.569,Bosnia and Herzegovina
+Europe,2017,82.87058,4.939,Bosnia and Herzegovina
+Europe,2018,79.59588,5.082,Bosnia and Herzegovina
+Europe,2019,77.86618,5.374,Bosnia and Herzegovina
+Europe,2020,82.71595,5.628,Bosnia and Herzegovina
+Europe,2021,78.43014,5.298,Bosnia and Herzegovina
+Europe,2022,80.48109,6.086,Bosnia and Herzegovina
+Europe,2023,79.78105,5.781,Bosnia and Herzegovina
+Africa,2014,77.27537,5.767,Botswana
+Africa,2015,72.52429,5.865,Botswana
+Africa,2016,77.88599,5.834,Botswana
+Africa,2017,76.68278,5.77,Botswana
+Africa,2018,78.76517,5.651,Botswana
+Africa,2019,65.57236,5.916,Botswana
+Africa,2020,80.77051,5.674,Botswana
+Africa,2021,77.52953,5.559,Botswana
+Africa,2022,83.58896,5.569,Botswana
+Africa,2023,87.31419,5.929,Botswana
+Americas,2014,88.30358,4.669,Brazil
+Americas,2015,83.19053,4.995,Brazil
+Americas,2016,86.56248,4.773,Brazil
+Americas,2017,86.00281,5.124,Brazil
+Americas,2018,83.67431,5.249,Brazil
+Americas,2019,85.55708,5.117,Brazil
+Americas,2020,85.94778,5.181,Brazil
+Americas,2021,81.56561,5.09,Brazil
+Americas,2022,76.83028,5.887,Brazil
+Europe,2014,77.36672,5.749,Bulgaria
+Europe,2015,88.29229,4.739,Bulgaria
+Europe,2016,88.64024,5.451,Bulgaria
+Europe,2017,87.81075,3.553,Bulgaria
+Europe,2018,91.28181,3.52,Bulgaria
+Europe,2019,90.55281,4.836,Bulgaria
+Europe,2020,91.62529,4.128,Bulgaria
+Europe,2021,89.03141,4.031,Bulgaria
+Europe,2022,91.04217,3.762,Bulgaria
+Africa,2014,91.24551,3.461,Burkina Faso
+Africa,2015,90.46943,3.471,Burkina Faso
+Africa,2016,88.15053,3.435,Burkina Faso
+Africa,2017,89.9175,6.637,Burkina Faso
+Africa,2018,83.08321,6.321,Burkina Faso
+Africa,2019,81.43287,6.691,Burkina Faso
+Africa,2020,83.15076,7.001,Burkina Faso
+Africa,2021,84.3272,6.837,Burkina Faso
+Africa,2022,86.02723,7.038,Burkina Faso
+Africa,2014,88.59492,6.981,Burundi
+Africa,2015,90.7517,6.547,Burundi
+Africa,2016,92.60361,6.375,Burundi
+Africa,2017,94.17546,6.333,Burundi
+Africa,2018,92.38533,6.191,Burundi
+Africa,2019,94.82044,6.451,Burundi
+Africa,2020,91.62424,6.11,Burundi
+Africa,2021,88.3621,6.01,Burundi
+Africa,2022,79.6405,6.257,Burundi
+Asia,2014,77.31035,3.875,Cambodia
+Asia,2015,70.95281,4.222,Cambodia
+Asia,2016,74.37658,3.993,Cambodia
+Asia,2017,74.52166,4.438,Cambodia
+Asia,2018,74.22621,4.865,Cambodia
+Asia,2019,70.53935,4.838,Cambodia
+Asia,2020,76.44011,5.097,Cambodia
+Asia,2021,78.47614,5.099,Cambodia
+Asia,2022,66.48595,5.108,Cambodia
+Africa,2014,65.75436,5.378,Cameroon
+Africa,2015,29.09338,3.801,Cameroon
+Africa,2016,32.56925,4.017,Cameroon
+Africa,2017,42.224,3.846,Cameroon
+Africa,2018,56.46781,4.036,Cameroon
+Africa,2019,48.47152,4.785,Cameroon
+Africa,2020,79.30815,3.955,Cameroon
+Africa,2021,67.51321,3.326,Cameroon
+Africa,2022,61.92643,3.481,Cameroon
+Americas,2014,71.5519,4.647,Canada
+Americas,2015,60.55286,4.927,Canada
+Americas,2016,65.05896,4.741,Canada
+Americas,2017,69.34342,4.64,Canada
+Americas,2018,72.86103,4.636,Canada
+Americas,2019,74.59012,3.563,Canada
+Americas,2020,76.50949,3.792,Canada
+Americas,2021,79.46054,3.706,Canada
+Americas,2022,75.91755,2.905,Canada
+Africa,2014,68.96008,4.156,Central African Republic
+Africa,2015,71.73942,4.462,Central African Republic
+Africa,2016,69.67158,4.111,Central African Republic
+Africa,2017,72.86939,4.141,Central African Republic
+Africa,2018,75.86407,4.161,Central African Republic
+Africa,2019,73.79928,3.899,Central African Republic
+Africa,2020,74.28373,3.674,Central African Republic
+Africa,2021,76.01944,3.883,Central African Republic
+Africa,2022,77.77771,4.162,Central African Republic
+Africa,2014,69.45964,5.122,Chad
+Africa,2015,67.68252,4.998,Chad
+Africa,2016,71.09647,4.377,Chad
+Africa,2017,72.00466,4.555,Chad
+Africa,2018,69.49364,4.25,Chad
+Africa,2019,96.15524,3.851,Chad
+Africa,2020,90.849,4.35,Chad
+Africa,2021,93.87074,4.292,Chad
+Africa,2022,94.28445,4.741,Chad
+Americas,2014,94.81283,4.245,Chile
+Americas,2015,93.62394,4.271,Chile
+Americas,2016,91.78363,4.24,Chile
+Americas,2017,93.90671,5.038,Chile
+Americas,2018,92.43925,4.816,Chile
+Americas,2019,93.3749,5.074,Chile
+Americas,2020,92.27188,5.251,Chile
+Americas,2021,92.5304,4.937,Chile
+Americas,2022,93.06107,5.241,Chile
+Asia,2014,48.33339,7.418,China
+Asia,2015,38.73909,7.482,China
+Asia,2016,29.01842,7.486,China
+Asia,2017,31.95891,7.488,China
+Asia,2018,72.43082,7.65,China
+Asia,2019,47.89509,7.426,China
+Asia,2020,57.08348,7.415,China
+Asia,2021,64.57136,7.594,China
+Asia,2022,73.37136,7.304,China
+Americas,2014,71.41446,7.415,Colombia
+Americas,2015,73.30668,7.175,Colombia
+Americas,2016,75.12522,7.109,Colombia
+Americas,2017,61.62049,7.025,Colombia
+Americas,2018,66.06156,6.939,Colombia
+Americas,2019,57.72536,6.918,Colombia
+Americas,2020,64.04521,4.16,Colombia
+Americas,2021,83.55436,3.568,Colombia
+Americas,2022,81.4621,3.678,Colombia
+Africa,2014,85.69552,3.435,Comoros
+Africa,2015,81.90789,4.141,Comoros
+Africa,2016,85.52356,4.632,Comoros
+Africa,2017,86.24047,3.639,Comoros
+Africa,2018,86.15522,3.743,Comoros
+Africa,2019,82.71419,4.393,Comoros
+Africa,2020,84.13882,4.033,Comoros
+Africa,2021,87.98408,3.508,Comoros
+Africa,2022,89.00849,3.46,Comoros
+Africa,2014,89.14605,4.559,Congo
+Africa,2015,74.70113,4.486,Congo 
+Africa,2016,81.08524,4.251,Congo
+Africa,2017,74.82873,4.397,Congo 
+Africa,2018,79.80344,6.063,Congo
+Africa,2019,76.77526,5.698,Congo 
+Africa,2020,78.71712,5.789,Congo 
+Africa,2021,78.78182,6.494,Congo
+Africa,2022,77.78959,6.636,Congo 
+Americas,2014,74.1703,6.74,Costa Rica
+Americas,2015,77.20332,6.844,Costa Rica
+Americas,2016,78.76053,6.533,Costa Rica
+Americas,2017,82.19359,6.579,Costa Rica
+Americas,2018,80.83345,6.32,Costa Rica
+Americas,2019,85.6007,6.436,Costa Rica
+Americas,2020,91.02931,5.942,Costa Rica
+Americas,2021,89.37068,6.151,Costa Rica
+Americas,2022,88.00668,6.436,Costa Rica
+Europe,2014,90.41473,4.863,Croatia
+Europe,2015,91.43726,4.846,Croatia
+Europe,2016,90.07779,4.454,Croatia
+Europe,2017,90.74026,4.653,Croatia
+Europe,2018,88.99,5.037,Croatia
+Europe,2019,88.19004,5.095,Croatia
+Europe,2020,90.925,5.241,Croatia
+Europe,2021,87.09704,5.196,Croatia
+Europe,2022,87.25789,5.304,Croatia
+Americas,2014,62.94268,5.131,Cuba
+Americas,2015,72.13429,5.144,Cuba
+Americas,2016,72.18328,5.771,Cuba
+Americas,2017,71.92179,5.863,Cuba
+Americas,2018,62.1303,6.025,Cuba
+Americas,2019,63.2013,6.138,Cuba
+Americas,2020,55.47719,6.168,Cuba
+Americas,2021,63.71175,6.272,Cuba
+Americas,2022,62.23304,6.408,Cuba
+Americas,2023,67.99347,6.464,Cuba
+Asia,2014,61.5449,6.449,Cyprus
+Asia,2015,65.54405,6.388,Cyprus
+Asia,2016,62.06229,6.234,Cyprus
+Asia,2017,62.47681,6.157,Cyprus
+Asia,2018,59.65151,5.984,Cyprus
+Asia,2019,56.76511,6.35,Cyprus
+Asia,2020,73.30602,5.709,Cyprus
+Asia,2021,74.39467,5.29,Cyprus
+Asia,2022,76.9546,5.892,Cyprus
+Europe,2014,76.72356,3.838,Czech Republic
+Europe,2015,86.41545,3.956,Czech Republic
+Europe,2016,66.96884,3.973,Czech Republic
+Europe,2017,93.6938,4.609,Czech Republic
+Europe,2018,91.76782,3.545,Czech Republic
+Europe,2019,91.5759,3.82,Czech Republic
+Europe,2020,89.97816,4.51,Czech Republic
+Europe,2021,91.51413,3.919,Czech Republic
+Europe,2022,89.20482,3.955,Czech Republic
+Europe,2014,91.42112,4.119,Denmark
+Europe,2015,87.8273,4.884,Denmark
+Europe,2016,90.07013,5.49,Denmark
+Europe,2017,92.16971,5.213,Denmark
+Europe,2018,87.58724,5.079,Denmark
+Europe,2019,90.60774,4.921,Denmark
+Europe,2020,83.41995,5.805,Denmark
+Europe,2021,87.60523,3.984,Denmark
+Europe,2022,90.98222,4.517,Denmark
+Africa,2014,78.97387,4.414,Djibouti
+Africa,2015,77.58179,3.903,Djibouti
+Africa,2016,75.12621,4.522,Djibouti
+Africa,2017,64.56978,4.311,Djibouti
+Africa,2018,76.83634,3.207,Djibouti
+Africa,2019,79.83322,7.082,Djibouti
+Africa,2020,77.03097,7.432,Djibouti
+Africa,2021,90.98068,6.851,Djibouti
+Africa,2022,93.59887,7.615,Djibouti
+Americas,2014,96.95951,7.272,Dominican Republic
+Americas,2015,87.82011,7.158,Dominican Republic
+Americas,2016,81.17361,7.247,Dominican Republic
+Americas,2017,82.21237,6.854,Dominican Republic
+Americas,2018,84.36545,7.136,Dominican Republic
+Americas,2019,76.71771,7.225,Dominican Republic
+Americas,2020,74.40321,7.141,Dominican Republic
+Americas,2021,77.0176,6.998,Dominican Republic
+Americas,2022,76.95561,6.338,Dominican Republic
+Americas,2014,82.55732,5.821,Ecuador
+Americas,2015,77.6078,5.433,Ecuador
+Americas,2016,80.55594,5.596,Ecuador
+Americas,2017,85.53572,5.385,Ecuador
+Americas,2018,91.87595,6.028,Ecuador
+Americas,2019,89.9779,5.885,Ecuador
+Americas,2020,93.41611,5.381,Ecuador
+Americas,2021,91.35107,5.205,Ecuador
+Americas,2022,91.24268,5.417,Ecuador
+Africa,2014,91.13626,5.626,Egypt
+Africa,2015,93.05929,6.508,Egypt
+Africa,2016,90.0969,6.287,Egypt
+Africa,2017,92.91639,5.579,Egypt
+Africa,2018,96.40537,5.418,Egypt
+Africa,2019,95.02268,6.238,Egypt
+Africa,2020,97.23715,6.833,Egypt
+Africa,2021,95.42011,6.387,Egypt
+Africa,2022,95.39117,6.69,Egypt
+Americas,2014,96.17361,5.627,El Salvador
+Americas,2015,95.14372,5.439,El Salvador
+Americas,2016,96.4708,5.795,El Salvador
+Americas,2017,95.63443,6.062,El Salvador
+Americas,2018,95.97013,6.276,El Salvador
+Americas,2019,95.44515,6.137,El Salvador
+Americas,2020,95.21001,6.26,El Salvador
+Americas,2021,95.82189,6.269,El Salvador
+Americas,2022,95.77064,5.865,El Salvador
+Europe,2014,69.04396,6.25,Estonia
+Europe,2015,90.0565,6.331,Estonia
+Europe,2016,90.589,6.334,Estonia
+Europe,2017,63.29733,6.698,Estonia
+Europe,2018,91.88989,6.484,Estonia
+Europe,2019,84.75448,6.608,Estonia
+Europe,2020,85.01375,6.736,Estonia
+Europe,2021,87.81615,6.79,Estonia
+Europe,2022,85.99693,7.034,Estonia
+Africa,2014,87.84491,6.695,Eswatini
+Africa,2015,89.0588,8.019,Eswatini
+Africa,2016,89.31978,7.834,Eswatini
+Africa,2017,89.47535,7.971,Eswatini
+Africa,2018,89.43681,7.683,Eswatini
+Africa,2019,86.19863,7.771,Eswatini
+Africa,2020,88.40899,7.788,Eswatini
+Africa,2021,80.61177,7.52,Eswatini
+Africa,2022,85.7107,7.589,Eswatini
+Africa,2014,82.93946,7.558,Ethiopia
+Africa,2015,77.9398,7.594,Ethiopia
+Africa,2016,83.92797,7.649,Ethiopia
+Africa,2017,81.80513,7.693,Ethiopia
+Africa,2018,78.5201,7.515,Ethiopia
+Africa,2019,80.12509,7.699,Ethiopia
+Africa,2020,83.09632,7.545,Ethiopia
+Africa,2022,85.58892,5.009,Ethiopia
+Europe,2014,85.1345,4.369,Finland
+Europe,2015,80.84858,5.088,Finland
+Europe,2016,80.40085,5.081,Finland
+Europe,2017,78.55319,4.842,Finland
+Europe,2018,84.78425,5.432,Finland
+Europe,2019,68.58633,4.735,Finland
+Europe,2020,73.83638,5.397,Finland
+Europe,2021,74.418,4.753,Finland
+Europe,2022,76.86753,5.016,Finland
+Europe,2014,67.51881,5.239,France
+Europe,2015,61.85507,5.605,France
+Europe,2016,72.97443,5.433,France
+Europe,2017,80.92186,6.004,France
+Europe,2018,63.82264,5.168,France
+Europe,2019,75.88241,6.031,France
+Europe,2020,77.21286,5.518,France
+Europe,2021,67.27255,5.024,France
+Europe,2022,71.70224,4.996,France
+Africa,2014,74.74113,5.838,Gabon
+Africa,2015,73.41128,5.795,Gabon
+Africa,2016,75.66539,5.961,Gabon
+Africa,2017,73.12779,6.019,Gabon
+Africa,2018,80.60147,5.946,Gabon
+Africa,2019,82.68589,5.964,Gabon
+Africa,2020,79.76121,6.115,Gabon
+Africa,2021,79.07554,5.84,Gabon
+Africa,2022,79.366,6.128,Gabon
+Africa,2023,82.89526,5.809,Gabon
+Africa,2014,69.56244,5.887,Gambia
+Africa,2015,79.61062,5.168,Gambia
+Africa,2016,91.00643,5.541,Gambia
+Africa,2017,89.56316,4.632,Gambia
+Africa,2018,90.37263,5.066,Gambia
+Africa,2019,87.37748,4.669,Gambia
+Africa,2020,90.87126,4.174,Gambia
+Africa,2021,88.94545,4.204,Gambia
+Africa,2022,90.07218,3.559,Gambia
+Asia,2014,93.77151,4.557,Georgia
+Asia,2015,93.56863,3.929,Georgia
+Asia,2016,93.26938,4.005,Georgia
+Asia,2017,93.40643,4.328,Georgia
+Asia,2018,95.77705,4.472,Georgia
+Asia,2019,94.5865,4.026,Georgia
+Asia,2020,83.71497,4.024,Georgia
+Asia,2021,77.92698,5.701,Georgia
+Asia,2022,75.90977,5.296,Georgia
+Europe,2014,64.04521,6.74,Germany
+Europe,2015,62.55968,4.741,Germany
+Europe,2016,71.87187,5.934,Germany
+Europe,2017,73.35398,6.325,Germany
+Europe,2018,74.01545,5.857,Germany
+Europe,2019,74.80578,6.018,Germany
+Europe,2020,82.31376,6.14,Germany
+Europe,2021,96.45628,6.339,Germany
+Europe,2022,95.13399,6.241,Germany
+Africa,2014,92.77394,6.431,Ghana
+Africa,2015,94.08691,6.492,Ghana
+Africa,2016,95.20165,5.371,Ghana
+Africa,2017,94.78006,5.332,Ghana
+Africa,2018,95.39405,5.452,Ghana
+Africa,2019,96.38264,5.138,Ghana
+Africa,2020,96.2155,5.487,Ghana
+Africa,2021,93.74155,5.364,Ghana
+Africa,2022,96.16207,5.367,Ghana
+Europe,2014,94.39291,5.65,Greece
+Europe,2015,93.53506,5.938,Greece
+Europe,2016,91.81585,6.091,Greece
+Europe,2017,94.29548,6.035,Greece
+Europe,2018,92.12856,6.453,Greece
+Europe,2019,93.70974,6.554,Greece
+Europe,2020,90.76908,6.357,Greece
+Europe,2021,87.75045,4.867,Greece
+Europe,2022,89.57194,4.212,Greece
+Americas,2014,92.14631,4.445,Guatemala
+Americas,2015,95.83481,4.507,Guatemala
+Americas,2016,94.7354,4.573,Guatemala
+Americas,2017,91.45975,4.298,Guatemala
+Americas,2018,65.27016,4.18,Guatemala
+Americas,2019,73.60961,4.379,Guatemala
+Americas,2020,73.34875,4.1,Guatemala
+Americas,2021,82.85971,4.549,Guatemala
+Americas,2022,75.5862,3.628,Guatemala
+Americas,2023,78.0049,7.672,Guatemala
+Africa,2014,76.30517,7.354,Guinea
+Africa,2015,70.12175,7.42,Guinea
+Africa,2016,75.38716,7.445,Guinea
+Africa,2017,69.70015,7.385,Guinea
+Africa,2018,68.48,7.448,Guinea
+Africa,2019,69.38701,7.66,Guinea
+Africa,2020,64.66359,7.788,Guinea
+Africa,2021,54.83691,7.858,Guinea
+Africa,2022,60.75127,7.78,Guinea
+Africa,2023,54.35131,7.889,Guinea
+Americas,2014,53.25865,7.093,Guyana
+Americas,2015,55.91658,6.583,Guyana
+Americas,2016,55.842,7.008,Guyana
+Americas,2017,51.73716,6.283,Guyana
+Americas,2018,53.34123,6.798,Guyana
+Americas,2019,59.04952,6.959,Guyana
+Americas,2020,61.72186,6.649,Guyana
+Americas,2021,67.49761,6.667,Guyana
+Americas,2022,71.83459,6.467,Guyana
+Americas,2014,92.32113,6.666,Haiti
+Americas,2015,93.47823,6.69,Haiti
+Americas,2016,93.93086,6.714,Haiti
+Americas,2016,94.72367,6.656,Haiti
+Americas,2017,92.64066,6.614,Haiti
+Americas,2018,93.14206,4.255,Haiti
+Americas,2019,93.75589,3.972,Haiti
+Americas,2020,92.59232,3.8,Haiti
+Americas,2021,90.60293,3.918,Haiti
+Americas,2022,89.21661,4.661,Haiti
+Americas,2014,90.50805,4.783,Honduras
+Americas,2015,86.75826,4.914,Honduras
+Americas,2016,72.827,4.887,Honduras
+Americas,2017,72.96477,5.075,Honduras
+Americas,2018,62.22551,5.14,Honduras
+Americas,2019,63.31977,4.118,Honduras
+Americas,2020,73.85587,4.922,Honduras
+Americas,2021,72.42972,5.164,Honduras
+Americas,2022,68.51119,4.279,Honduras
+Asia,2014,68.74486,4.156,Hong Kong
+Asia,2015,64.73032,3.801,Hong Kong
+Asia,2016,66.91111,4.102,Hong Kong
+Asia,2017,76.07168,4.203,Hong Kong
+Asia,2018,74.62478,4.254,Hong Kong
+Asia,2019,64.27034,4.349,Hong Kong
+Asia,2020,63.27296,4.288,Hong Kong
+Asia,2021,83.65394,4.122,Hong Kong
+Asia,2022,80.80027,4.448,Hong Kong
+Europe,2014,85.1555,4.892,Hungary
+Europe,2015,81.21411,5.123,Hungary
+Europe,2016,68.665,4.911,Hungary
+Europe,2017,83.23332,5.293,Hungary
+Europe,2018,83.48247,6.62,Hungary
+Europe,2019,80.26059,6.417,Hungary
+Europe,2020,75.28995,6.522,Hungary
+Europe,2021,79.35008,6.641,Hungary
+Europe,2022,89.08095,6.725,Hungary
+Europe,2014,83.04416,6.965,Iceland
+Europe,2015,86.63971,6.984,Iceland
+Europe,2016,86.56055,7.037,Iceland
+Europe,2017,83.38156,6.874,Iceland
+Europe,2018,85.90525,7.074,Iceland
+Europe,2019,76.81124,7.118,Iceland
+Europe,2020,80.2149,7.035,Iceland
+Europe,2021,82.96504,7.312,Iceland
+Europe,2022,83.39747,6.755,Iceland
+Asia,2014,82.64921,5.22,India
+Asia,2015,84.11072,4.965,India
+Asia,2016,77.40744,4.198,India
+Asia,2017,59.84656,4.606,India
+Asia,2018,54.22953,5.608,India
+Asia,2019,56.68666,5.057,India
+Asia,2020,63.77137,4.965,India
+Asia,2021,57.88596,3.86,India
+Asia,2022,67.5447,3.986,India
+Asia,2014,65.51242,5.004,Indonesia
+Asia,2015,73.19285,4.967,Indonesia
+Asia,2016,62.72392,5.319,Indonesia
+Asia,2017,84.87652,4.378,Indonesia
+Asia,2018,69.38007,4.191,Indonesia
+Asia,2019,67.90984,6.006,Indonesia
+Asia,2020,55.40308,6.647,Indonesia
+Asia,2021,56.7039,6.039,Indonesia
+Asia,2022,74.86627,5.84,Indonesia
+Asia,2014,56.43197,4.72,Iran
+Asia,2015,58.37424,4.756,Iran
+Asia,2016,64.6985,5.623,Iran
+Asia,2017,53.79759,5.303,Iran
+Asia,2018,93.26768,5.148,Iran
+Asia,2019,81.88686,5.409,Iran
+Asia,2020,82.81759,5.952,Iran
+Asia,2021,82.39661,5.788,Iran
+Asia,2022,80.2939,6.104,Iran
+Asia,2014,77.23755,6.452,Iraq
+Asia,2015,77.391,6.29,Iraq
+Asia,2016,84.33549,5.743,Iraq
+Asia,2017,82.7067,5.856,Iraq
+Asia,2018,79.71483,5.985,Iraq
+Asia,2019,80.59809,6.536,Iraq
+Asia,2020,81.21777,6.465,Iraq
+Asia,2021,84.02224,6.359,Iraq
+Asia,2022,83.47157,6.325,Iraq
+Europe,2014,82.64257,6.15,Ireland
+Europe,2015,83.35582,4.045,Ireland
+Europe,2016,83.20779,3.652,Ireland
+Europe,2017,83.10663,3.902,Ireland
+Europe,2018,85.58257,3.412,Ireland
+Europe,2019,81.2943,3.505,Ireland
+Europe,2020,82.10886,3.603,Ireland
+Europe,2021,92.96283,4.874,Ireland
+Europe,2022,93.06539,5.252,Ireland
+Asia,2014,89.36622,4.945,Israel
+Asia,2015,90.6114,5.317,Israel
+Asia,2016,87.73183,5.993,Israel
+Asia,2017,84.47353,3.754,Israel
+Asia,2018,85.87338,3.846,Israel
+Asia,2019,89.95116,3.766,Israel
+Asia,2020,87.67475,4.845,Israel
+Asia,2021,94.05914,4.413,Israel
+Asia,2022,94.65156,4.622,Israel
+Europe,2014,97.74296,3.352,Italy
+Europe,2015,97.89653,3.824,Italy
+Europe,2016,96.71449,3.615,Italy
+Europe,2017,98.02832,5.397,Italy
+Europe,2018,98.49401,5.097,Italy
+Europe,2019,96.67528,5.42,Italy
+Europe,2020,98.18246,6.033,Italy
+Europe,2021,98.32861,5.866,Italy
+Europe,2022,97.98582,4.961,Italy
+Africa,2014,68.35932,5.056,CÃ´te D'Ivoire
+Africa,2015,65.28521,4.845,CÃ´te D'Ivoire
+Africa,2016,60.48098,5.648,CÃ´te D'Ivoire
+Africa,2017,55.25931,6.02,CÃ´te D'Ivoire
+Africa,2018,51.05746,5.908,CÃ´te D'Ivoire
+Africa,2019,55.28263,5.93,CÃ´te D'Ivoire
+Africa,2020,62.14666,6.114,CÃ´te D'Ivoire
+Africa,2021,61.01333,5.932,CÃ´te D'Ivoire
+Africa,2022,61.35294,5.511,CÃ´te D'Ivoire
+Americas,2014,56.07808,5.643,Jamaica
+Americas,2015,61.64115,5.474,Jamaica
+Americas,2016,56.97329,5.484,Jamaica
+Americas,2017,77.09509,5.458,Jamaica
+Americas,2018,70.37881,5.498,Jamaica
+Americas,2019,67.50754,5.362,Jamaica
+Americas,2020,77.9368,5.659,Jamaica
+Americas,2021,81.60215,5.295,Jamaica
+Americas,2022,82.4977,5.322,Jamaica
+Asia,2014,90.48278,4.895,Japan
+Asia,2015,80.94781,4.725,Japan
+Asia,2016,79.18306,4.918,Japan
+Asia,2017,79.55892,4.683,Japan
+Asia,2018,80.93789,4.914,Japan
+Asia,2019,80.1918,5.181,Japan
+Asia,2020,75.08962,5.344,Japan
+Asia,2021,81.69247,5.449,Japan
+Asia,2022,76.5978,6.065,Japan
+Asia,2014,58.22371,6.038,Jordan
+Asia,2015,59.95426,6.227,Jordan
+Asia,2016,66.37067,5.861,Jordan
+Asia,2017,64.40638,6.888,Jordan
+Asia,2018,57.24069,7.591,Jordan
+Asia,2019,56.62812,7.501,Jordan
+Asia,2020,71.42329,7.498,Jordan
+Asia,2021,67.37647,7.51,Jordan
+Asia,2022,69.82931,7.476,Jordan
+Asia,2014,74.43663,7.565,Kazakhstan
+Asia,2015,86.17461,7.449,Kazakhstan
+Asia,2016,85.41178,5.348,Kazakhstan
+Asia,2017,75.07486,5.027,Kazakhstan
+Asia,2018,73.01182,5.146,Kazakhstan
+Asia,2019,72.82854,4.522,Kazakhstan
+Asia,2020,72.51507,4.989,Kazakhstan
+Asia,2021,68.44348,4.635,Kazakhstan
+Asia,2022,71.89567,4.72,Kazakhstan
+Africa,2014,70.78475,4.342,Kenya
+Africa,2015,73.02129,4.179,Kenya
+Africa,2016,96.70411,4.046,Kenya
+Africa,2017,98.25217,3.818,Kenya
+Africa,2018,95.87024,3.249,Kenya
+Africa,2019,97.28859,4.224,Kenya
+Africa,2020,97.73776,3.558,Kenya
+Africa,2021,96.17859,3.93,Kenya
+Africa,2022,95.51883,4.947,Kenya
+Europe,2014,95.8144,5.472,Kosovo
+Europe,2015,94.3482,5.457,Kosovo
+Europe,2016,93.78624,5.173,Kosovo
+Europe,2017,94.37264,5.368,Kosovo
+Europe,2018,96.03111,5.292,Kosovo
+Europe,2019,84.98381,5.597,Kosovo
+Europe,2020,92.70789,5.043,Kosovo
+Europe,2021,86.82168,5.136,Kosovo
+Europe,2022,85.92641,5.098,Kosovo
+Asia,2014,89.26966,4.828,Kuwait
+Asia,2015,90.34155,5.433,Kuwait
+Asia,2016,90.85159,5.585,Kuwait
+Asia,2017,88.90697,5.308,Kuwait
+Asia,2018,86.41302,5.336,Kuwait
+Asia,2019,88.96608,5.129,Kuwait
+Asia,2020,91.64408,4.768,Kuwait
+Asia,2021,90.95954,4.609,Kuwait
+Asia,2022,94.60106,5.14,Kuwait
+Asia,2014,92.80007,4.653,Kyrgyzstan
+Asia,2015,91.22924,4.717,Kyrgyzstan
+Asia,2016,87.96631,4.278,Kyrgyzstan
+Asia,2017,88.03125,5.006,Kyrgyzstan
+Asia,2018,87.23841,4.865,Kyrgyzstan
+Asia,2019,91.33093,4.788,Kyrgyzstan
+Asia,2020,86.94866,4.977,Kyrgyzstan
+Asia,2021,91.62961,4.59,Kyrgyzstan
+Asia,2022,89.78993,4.775,Kyrgyzstan
+Asia,2014,91.97912,4.66,Laos
+Asia,2015,91.26561,4.725,Laos
+Asia,2016,83.84025,4.542,Laos
+Asia,2017,88.9824,4.493,Laos
+Asia,2018,88.55336,4.413,Laos
+Asia,2019,66.70087,4.462,Laos
+Asia,2020,70.85711,4.886,Laos
+Asia,2021,71.09917,4.785,Laos
+Asia,2022,70.39917,5.094,Laos
+Europe,2014,62.08826,7.046,Latvia
+Europe,2015,67.9386,7.257,Latvia
+Europe,2016,61.31063,7.007,Latvia
+Europe,2017,55.42248,6.965,Latvia
+Europe,2018,90.9084,6.76,Latvia
+Europe,2019,85.45842,7.018,Latvia
+Europe,2020,86.49434,6.83,Latvia
+Europe,2021,87.42315,7.041,Latvia
+Europe,2022,91.30298,7.06,Latvia
+Asia,2014,92.7712,6.828,Lebanon
+Asia,2015,93.81481,6.87,Lebanon
+Asia,2016,88.73041,7.173,Lebanon
+Asia,2017,88.83569,6.841,Lebanon
+Asia,2018,90.19249,7.261,Lebanon
+Asia,2019,91.67037,7.353,Lebanon
+Asia,2020,90.52954,7.359,Lebanon
+Asia,2021,92.36884,7.433,Lebanon
+Asia,2022,90.00403,7.111,Lebanon
+Africa,2014,88.19613,7.079,Lesotho
+Africa,2015,88.64319,7.159,Lesotho
+Africa,2016,87.76509,7.331,Lesotho
+Africa,2017,88.72491,6.927,Lesotho
+Africa,2018,89.57377,7.332,Lesotho
+Africa,2019,92.0013,7.195,Lesotho
+Africa,2020,84.06065,7.578,Lesotho
+Africa,2021,76.62242,7.662,Lesotho
+Africa,2022,89.90335,6.854,Lesotho
+Africa,2014,82.94963,6.334,Liberia
+Africa,2015,84.03792,6.354,Liberia
+Africa,2016,81.6131,6.057,Liberia
+Africa,2017,83.04439,5.839,Liberia
+Africa,2018,81.99447,6.009,Liberia
+Africa,2019,81.46645,6.027,Liberia
+Africa,2020,79.95443,5.848,Liberia
+Africa,2021,79.25597,5.955,Liberia
+Africa,2022,70.88399,6.199,Liberia
+Africa,2014,86.08928,6.488,Libya
+Africa,2015,83.94672,6.467,Libya
+Africa,2016,89.29978,6.258,Libya
+Africa,2017,90.37865,4.197,Libya
+Africa,2018,90.49714,3.739,Libya
+Africa,2019,89.17167,3.57,Libya
+Africa,2020,88.90097,4.445,Libya
+Africa,2021,79.52935,4.543,Libya
+Africa,2022,93.13493,5.038,Libya
+Europe,2014,93.66567,5.257,Lithuania
+Europe,2015,95.10501,5.056,Lithuania
+Europe,2016,96.6449,4.849,Lithuania
+Europe,2017,90.60534,6.208,Lithuania
+Europe,2018,90.87982,5.374,Lithuania
+Europe,2019,84.11121,5.709,Lithuania
+Europe,2020,82.65553,5.311,Lithuania
+Europe,2021,78.92203,5.89,Lithuania
+Europe,2022,80.53265,6.309,Lithuania
+Europe,2014,82.4806,5.87,Luxembourg
+Europe,2015,76.54364,6.516,Luxembourg
+Europe,2016,77.69231,6.238,Luxembourg
+Europe,2017,70.59216,5.911,Luxembourg
+Europe,2018,71.46043,5.845,Luxembourg
+Europe,2019,70.67199,6.057,Luxembourg
+Europe,2020,67.59316,6.263,Luxembourg
+Europe,2021,67.37176,5.968,Luxembourg
+Europe,2022,70.22007,5.959,Luxembourg
+Europe,2023,84.78117,5.923,Luxembourg
+Africa,2014,70.79589,5.911,Madagascar
+Africa,2015,75.91016,5.794,Madagascar
+Africa,2016,75.71471,5.908,Madagascar
+Africa,2017,72.07504,6.118,Madagascar
+Africa,2018,70.56323,6.091,Madagascar
+Africa,2019,80.52708,6.178,Madagascar
+Africa,2020,82.38027,6.295,Madagascar
+Africa,2021,79.20873,5.598,Madagascar
+Africa,2022,82.24065,4.93,Madagascar
+Africa,2023,84.25112,6,Madagascar
+Africa,2014,91.89504,5.132,Malawi
+Africa,2015,92.64119,5.172,Malawi
+Africa,2016,89.27223,5.333,Malawi
+Africa,2017,88.1912,5.405,Malawi
+Africa,2018,88.89167,5.271,Malawi
+Africa,2019,86.19481,4.808,Malawi
+Africa,2021,87.813,4.639,Malawi
+Africa,2022,82.30178,4.453,Malawi
+Asia,2014,83.30979,5.719,Malaysia
+Asia,2015,79.21326,5.886,Malaysia
+Asia,2016,85.49356,5.383,Malaysia
+Asia,2017,88.53629,5.514,Malaysia
+Asia,2018,89.14041,5.736,Malaysia
+Asia,2019,85.61817,5.759,Malaysia
+Asia,2020,85.07155,5.835,Malaysia
+Asia,2021,89.80248,5.97,Malaysia
+Asia,2022,85.65845,5.95,Malaysia
+Asia,2023,91.43755,5.534,Malaysia
+Asia,2014,87.70279,6.272,Maldives
+Asia,2015,90.2223,6.168,Maldives
+Asia,2016,90.42733,6.26,Maldives
+Asia,2017,80.6987,6.006,Maldives
+Asia,2018,78.96207,4.223,Maldives
+Asia,2019,80.70862,4.576,Maldives
+Asia,2020,69.08778,4.015,Maldives
+Asia,2021,69.26279,4.27,Maldives
+Asia,2022,70.73358,4.256,Maldives
+Africa,2014,66.03963,3.795,Mali
+Africa,2015,64.98933,4.905,Mali
+Africa,2016,88.44988,4.358,Mali
+Africa,2017,83.55086,4.396,Mali
+Africa,2018,85.54183,4.476,Mali
+Africa,2019,80.69393,4.656,Mali
+Africa,2020,83.60425,4.619,Mali
+Africa,2021,85.11952,4.547,Mali
+Africa,2022,83.40226,4.465,Mali
+Europe,2014,91.7074,5.522,Malta
+Europe,2015,89.50987,5.891,Malta
+Europe,2016,91.32763,5.177,Malta
+Europe,2017,93.55013,4.86,Malta
+Europe,2018,92.80122,5.64,Malta
+Europe,2019,95.40864,6.126,Malta
+Europe,2020,79.62784,5,Malta
+Europe,2021,85.3151,5.077,Malta
+Europe,2022,71.73574,5.759,Malta
+Africa,2014,73.29146,6.425,Mauritania
+Africa,2017,71.26115,6.294,Mauritania
+Africa,2018,70.82281,6.648,Mauritania
+Africa,2019,75.87194,6.16,Mauritania
+Africa,2020,74.17077,6.076,Mauritania
+Africa,2021,82.78859,6.585,Mauritania
+Africa,2022,77.6583,6.798,Mauritania
+Africa,2014,54.65998,6.48,Mauritius
+Africa,2015,50.67753,6.18,Mauritius
+Africa,2016,82.40854,6.146,Mauritius
+Africa,2017,79.80593,5.947,Mauritius
+Africa,2018,76.85516,6.094,Mauritius
+Africa,2019,78.97054,6.106,Mauritius
+Africa,2020,59.37317,4.641,Mauritius
+Africa,2021,61.86925,4.698,Mauritius
+Africa,2022,82.70987,4.737,Mauritius
+Americas,2014,64.26146,4.921,Mexico
+Americas,2015,68.48668,5.208,Mexico
+Americas,2016,72.67501,5.402,Mexico
+Americas,2017,71.24738,5.252,Mexico
+Americas,2018,85.49309,4.905,Mexico
+Americas,2019,86.79877,4.857,Mexico
+Americas,2020,87.60659,5.63,Mexico
+Americas,2021,82.27588,5.297,Mexico
+Americas,2022,82.41652,5.685,Mexico
+Europe,2014,91.36674,5.076,Moldova
+Europe,2015,93.2609,5.364,Moldova
+Europe,2016,88.18106,5.044,Moldova
+Europe,2017,91.14113,4.704,Moldova
+Europe,2018,91.86901,4.876,Moldova
+Europe,2019,91.25142,4.623,Moldova
+Europe,2020,90.82398,4.859,Moldova
+Europe,2021,92.85235,5.197,Moldova
+Europe,2022,93.78734,5.284,Moldova
+Asia,2014,91.75775,4.667,Mongolia
+Asia,2015,95.25441,5.145,Mongolia
+Asia,2016,92.81752,4.669,Mongolia
+Asia,2017,93.85594,4.967,Mongolia
+Asia,2018,95.23717,5.125,Mongolia
+Asia,2019,93.40906,5.07,Mongolia
+Asia,2020,91.39077,5.729,Mongolia
+Asia,2021,91.66833,5.881,Mongolia
+Asia,2022,87.54694,5.94,Mongolia
+Europe,2014,90.54355,5.97,Montenegro
+Europe,2015,90.21924,6.229,Montenegro
+Europe,2016,91.21045,6.353,Montenegro
+Europe,2017,71.11347,6.055,Montenegro
+Europe,2018,77.56886,5.491,Montenegro
+Europe,2019,81.84026,4.653,Montenegro
+Europe,2020,67.30883,4.595,Montenegro
+Europe,2021,67.25467,5.206,Montenegro
+Europe,2022,65.52141,5.032,Montenegro
+Africa,2014,62.6332,4.983,Morocco
+Africa,2015,66.5513,5.233,Morocco
+Africa,2016,70.06101,5.172,Morocco
+Africa,2017,55.38789,5.271,Morocco
+Africa,2018,60.0267,5.154,Morocco
+Africa,2019,71.845,5.167,Morocco
+Africa,2020,61.27368,4.024,Morocco
+Africa,2021,60.37257,2.634,Morocco
+Africa,2022,56.31616,2.179,Morocco
+Africa,2014,52.42996,3.808,Mozambique
+Africa,2015,55.54227,3.795,Mozambique
+Africa,2016,52.78435,3.512,Mozambique
+Africa,2017,54.89561,3.701,Mozambique
+Africa,2018,55.79143,4.221,Mozambique
+Africa,2019,86.58998,4.196,Mozambique
+Africa,2021,87.14971,4.571,Mozambique
+Africa,2022,80.28114,2.702,Mozambique
+Asia,2014,77.0423,4.135,Myanmar
+Asia,2015,84.12189,5.121,Myanmar
+Asia,2016,83.09001,4.042,Myanmar
+Asia,2017,86.3067,5.754,Myanmar
+Asia,2018,81.76163,5.615,Myanmar
+Asia,2019,78.94086,5.434,Myanmar
+Asia,2020,84.24988,5.647,Myanmar
+Asia,2021,79.68954,5.494,Myanmar
+Asia,2022,91.33151,5.33,Myanmar
+Africa,2014,73.25571,5.554,Namibia
+Africa,2015,75.09223,5.467,Namibia
+Africa,2016,79.5505,5.066,Namibia
+Africa,2017,82.34351,5.432,Namibia
+Africa,2018,81.96914,5.771,Namibia
+Africa,2019,84.31234,5.596,Namibia
+Africa,2020,83.01892,6.126,Namibia
+Africa,2021,83.62545,5.711,Namibia
+Africa,2022,74.13594,5.866,Namibia
+Africa,2023,69.18591,6.273,Namibia
+Asia,2014,57.33935,6.391,Nepal
+Asia,2015,91.57721,6.865,Nepal
+Asia,2016,90.83215,7.038,Nepal
+Asia,2017,92.26397,6.958,Nepal
+Asia,2018,92.1752,7.097,Nepal
+Asia,2019,94.22314,7.101,Nepal
+Asia,2020,94.12159,6.964,Nepal
+Asia,2021,91.87649,7.131,Nepal
+Asia,2022,93.03694,6.891,Nepal
+Europe,2014,92.15785,7.061,Netherlands
+Europe,2015,93.79203,7.243,Netherlands
+Europe,2016,89.71131,7.404,Netherlands
+Europe,2017,68.1909,7.228,Netherlands
+Europe,2018,67.02526,3.98,Netherlands
+Europe,2019,81.93338,4.64,Netherlands
+Europe,2020,85.65078,4.381,Netherlands
+Europe,2021,75.02766,3.551,Netherlands
+Europe,2022,76.33327,3.816,Netherlands
+Europe,2023,74.11558,3.676,Netherlands
+Oceania,2014,78.48269,4.079,New Zealand
+Oceania,2015,77.92252,4.071,New Zealand
+Oceania,2016,80.15955,4.339,New Zealand
+Oceania,2017,79.8102,4.019,New Zealand
+Oceania,2018,80.02732,3.83,New Zealand
+Oceania,2019,78.4822,4.891,New Zealand
+Oceania,2020,83.60322,5.148,New Zealand
+Oceania,2021,91.01422,3.946,New Zealand
+Oceania,2022,90.88416,4.279,New Zealand
+Oceania,2023,91.31343,4.035,New Zealand
+Americas,2014,90.28077,3.476,Nicaragua
+Americas,2015,87.88056,3.417,Nicaragua
+Americas,2016,87.63278,3.335,Nicaragua
+Americas,2017,86.82207,3.869,Nicaragua
+Americas,2018,87.63897,3.635,Nicaragua
+Americas,2019,82.40641,3.356,Nicaragua
+Americas,2020,76.72794,6.012,Nicaragua
+Americas,2021,75.91384,6.239,Nicaragua
+Americas,2022,78.1965,5.807,Nicaragua
+Americas,2023,76.06143,5.385,Nicaragua
+Africa,2014,85.80689,5.914,Niger
+Africa,2015,85.16858,5.77,Niger
+Africa,2016,77.88162,5.963,Niger
+Africa,2017,77.86051,6.322,Niger
+Africa,2018,81.21826,5.339,Niger
+Africa,2019,80.41917,5.428,Niger
+Africa,2020,87.15526,6.014,Niger
+Africa,2021,85.58831,6.01,Niger
+Africa,2022,84.70947,5.198,Niger
+Africa,2023,86.94136,4.014,Niger
+Africa,2014,80.49688,3.762,Nigeria
+Africa,2015,83.99055,4.667,Nigeria
+Africa,2016,83.73215,4.313,Nigeria
+Africa,2017,83.07679,3.676,Nigeria
+Africa,2018,89.20799,3.975,Nigeria
+Africa,2019,80.91671,4.582,Nigeria
+Africa,2020,87.40618,4.016,Nigeria
+Africa,2021,87.9554,4.742,Nigeria
+Africa,2022,88.10548,4.416,Nigeria
+Africa,2023,92.01159,4.988,Nigeria
+Europe,2014,91.85161,4.211,Macedonia
+Europe,2015,93.47416,6.328,Macedonia
+Europe,2016,94.34367,5.774,Macedonia
+Europe,2017,90.55244,6.155,Macedonia
+Europe,2018,94.74894,5.963,Macedonia
+Europe,2019,92.42508,6.38,Macedonia
+Europe,2020,94.15141,6.452,Macedonia
+Europe,2021,94.57581,6.613,Macedonia
+Europe,2022,91.77892,6.591,Macedonia
+Europe,2023,92.7117,6.676,Macedonia
+Europe,2014,80.45493,6.157,Norway
+Europe,2015,81.76315,6.444,Norway
+Europe,2016,70.40328,6.299,Norway
+Europe,2017,73.55652,4.149,Norway
+Europe,2018,86.29304,4.248,Norway
+Europe,2019,73.96305,4.5,Norway
+Europe,2020,86.57437,4.772,Norway
+Europe,2021,88.11998,4.785,Norway
+Europe,2022,85.59796,4.673,Norway
+Asia,2014,0,3.923,Oman
+Asia,2015,83.33853,4.472,Oman
+Asia,2016,67.58249,4.678,Oman
+Asia,2017,59.71657,4.314,Oman
+Asia,2018,60.59176,4.153,Oman
+Asia,2019,65.54093,4.724,Oman
+Asia,2020,64.11931,5.477,Oman
+Asia,2021,55.37598,5.648,Oman
+Asia,2022,53.4804,5.61,Oman
+Asia,2023,55.25201,6.174,Oman
+Asia,2014,74.76811,6.015,Pakistan
+Asia,2015,75.55828,5.949,Pakistan
+Asia,2016,81.76246,5.741,Pakistan
+Asia,2017,66.58582,6.581,Pakistan
+Asia,2018,67.84637,6.525,Pakistan
+Asia,2019,73.84804,6.829,Pakistan
+Asia,2020,74.23037,6.963,Pakistan
+Asia,2021,66.40227,6.802,Pakistan
+Asia,2022,61.22497,6.91,Pakistan
+Asia,2023,75.67255,7.32,Pakistan
+Americas,2014,79.3462,6.236,Panama
+Americas,2015,79.51838,6.824,Panama
+Americas,2016,77.38259,6.41,Panama
+Americas,2017,76.29949,6.55,Panama
+Americas,2018,79.57633,6.432,Panama
+Americas,2019,77.95764,5.964,Panama
+Americas,2021,82.76235,5.991,Panama
+Americas,2022,76.27836,7.038,Panama
+Americas,2023,82.8339,5.102,Panama
+Americas,2014,74.05703,5.554,Paraguay
+Americas,2015,80.78008,5.59,Paraguay
+Americas,2016,87.36811,5.792,Paraguay
+Americas,2017,78.67077,5.996,Paraguay
+Americas,2018,81.76576,5.756,Paraguay
+Americas,2019,81.30679,5.917,Paraguay
+Americas,2020,77.90381,6.017,Paraguay
+Americas,2021,74.09794,5.578,Paraguay
+Americas,2022,73.36023,5.326,Paraguay
+Americas,2014,74.76119,5.812,Peru
+Americas,2015,83.70436,5.959,Peru
+Americas,2016,81.63833,5.687,Peru
+Americas,2017,76.83355,4.609,Peru
+Americas,2018,77.22731,4.493,Peru
+Americas,2019,78.72152,4.586,Peru
+Americas,2020,69.86464,5.031,Peru
+Americas,2021,94.7358,4.885,Peru
+Americas,2022,94.38541,4.913,Peru
+Americas,2023,94.42022,4.825,Peru
+Asia,2014,93.88847,5.334,Philippines
+Asia,2015,92.47054,5.465,Philippines
+Asia,2016,90.89957,5.563,Philippines
+Asia,2017,87.90104,6.011,Philippines
+Asia,2018,92.59442,5.721,Philippines
+Asia,2019,93.65013,5.788,Philippines
+Asia,2020,93.94432,5.196,Philippines
+Asia,2021,94.14775,4.801,Philippines
+Asia,2022,94.39561,5.455,Philippines
+Asia,2023,91.87594,5.223,Philippines
+Europe,2014,94.42747,5.283,Poland
+Europe,2015,97.56422,5.125,Poland
+Europe,2016,95.36499,5.304,Poland
+Europe,2017,93.00286,5.615,Poland
+Europe,2018,95.81535,5.65,Poland
+Europe,2019,94.23808,5.386,Poland
+Europe,2020,98.73435,5.722,Poland
+Europe,2021,93.66029,4.383,Poland
+Europe,2022,95.49206,5.085,Poland
+Europe,2023,95.38627,4.97,Poland
+Europe,2014,94.98322,5.386,Portugal
+Europe,2015,87.71701,5.312,Portugal
+Europe,2016,86.6213,4.897,Portugal
+Europe,2017,85.71863,5.057,Portugal
+Europe,2018,83.46881,4.803,Portugal
+Europe,2019,86.31516,5.326,Portugal
+Europe,2020,80.03051,4.596,Portugal
+Europe,2021,89.40544,4.595,Portugal
+Europe,2022,86.8216,4.833,Portugal
+Europe,2023,83.85674,4.654,Portugal
+Asia,2014,83.80437,4.28,Qatar
+Asia,2015,85.42765,4.654,Qatar
+Asia,2016,87.38639,4.932,Qatar
+Asia,2017,85.57028,5.178,Qatar
+Asia,2018,84.8263,4.74,Qatar
+Asia,2019,67.71655,4.439,Qatar
+Asia,2020,72.57128,4.176,Qatar
+Asia,2021,60.66387,4.786,Qatar
+Asia,2022,77.12651,4.224,Qatar
+Asia,2023,65.4965,4.623,Qatar
+Europe,2014,69.58136,4.434,Romania
+Europe,2015,75.25339,4.431,Romania
+Europe,2016,71.30196,4.314,Romania
+Europe,2017,68.28282,4.886,Romania
+Europe,2018,58.21096,4.574,Romania
+Europe,2019,61.20257,4.441,Romania
+Europe,2020,67.69587,4.834,Romania
+Europe,2021,73.51786,4.436,Romania
+Europe,2022,71.77038,4.451,Romania
+Europe,2023,77.96405,4.491,Romania
+Europe,2014,81.75796,4.748,Russia
+Europe,2015,66.29433,4.441,Russia
+Europe,2016,81.16477,4.917,Russia
+Europe,2017,80.4767,4.35,Russia
+Europe,2018,73.34685,3.809,Russia
+Europe,2019,74.08542,4.233,Russia
+Europe,2020,73.49952,4.605,Russia
+Europe,2021,73.92895,4.975,Russia
+Europe,2022,74.15601,4.812,Russia
+Europe,2023,87.11501,5.1,Russia
+Africa,2014,79.13827,5.449,Rwanda
+Africa,2015,80.76903,5.982,Rwanda
+Africa,2016,83.73918,4.622,Rwanda
+Africa,2017,80.32945,5.474,Rwanda
+Africa,2018,81.05379,7.464,Rwanda
+Africa,2019,73.4431,7.452,Rwanda
+Africa,2020,68.68548,7.631,Rwanda
+Africa,2021,78.43001,7.502,Rwanda
+Africa,2022,79.8305,7.564,Rwanda
+Africa,2023,83.22538,7.471,Rwanda
+Asia,2014,87.12122,7.324,Saudi Arabia
+Asia,2015,79.99551,7.541,Saudi Arabia
+Asia,2016,84.89152,7.459,Saudi Arabia
+Asia,2017,81.46385,7.463,Saudi Arabia
+Asia,2018,75.03742,7.425,Saudi Arabia
+Asia,2019,80.8857,7.504,Saudi Arabia
+Asia,2020,95.85113,7.314,Saudi Arabia
+Asia,2021,93.58789,7.39,Saudi Arabia
+Asia,2022,94.76574,7.305,Saudi Arabia
+Asia,2023,94.11619,7.604,Saudi Arabia
+Africa,2014,95.01277,7.191,Senegal
+Africa,2015,96.59619,7.25,Senegal
+Africa,2016,94.1784,7.28,Senegal
+Africa,2017,95.59799,7.306,Senegal
+Africa,2018,94.78774,7.418,Senegal
+Africa,2019,95.241,7.226,Senegal
+Africa,2020,59.09457,7.327,Senegal
+Africa,2021,47.88874,7.37,Senegal
+Africa,2022,37.29079,7.205,Senegal
+Africa,2023,52.17467,7.257,Senegal
+Europe,2014,54.2038,4.46,Serbia
+Europe,2015,60.70871,4.944,Serbia
+Europe,2016,55.16833,5.104,Serbia
+Europe,2017,56.17201,5.353,Serbia
+Europe,2018,62.69213,5.687,Serbia
+Europe,2019,69.02636,5.386,Serbia
+Europe,2020,68.50595,5.448,Serbia
+Europe,2021,61.72957,5.772,Serbia
+Europe,2022,59.42736,6.275,Serbia
+Europe,2023,60.83956,5.924,Serbia
+Africa,2014,66.59107,5.819,Sierra Leone
+Africa,2015,73.80767,6.113,Sierra Leone
+Africa,2016,82.17463,6.287,Sierra Leone
+Africa,2017,75.08323,6.095,Sierra Leone
+Africa,2018,78.21691,6.392,Sierra Leone
+Africa,2019,76.08995,3.737,Sierra Leone
+Africa,2020,77.50867,4.277,Sierra Leone
+Africa,2021,76.61012,4.236,Sierra Leone
+Africa,2022,81.7771,4.267,Sierra Leone
+Africa,2023,82.43451,4.101,Sierra Leone
+Asia,2014,95.09804,3.716,Singapore
+Asia,2015,93.70781,4.181,Singapore
+Asia,2016,92.24813,3.671,Singapore
+Asia,2017,90.50285,4.235,Singapore
+Asia,2018,92.75331,4.616,Singapore
+Asia,2019,87.62842,5.164,Singapore
+Asia,2020,89.73911,5.004,Singapore
+Asia,2021,89.57198,4.501,Singapore
+Asia,2022,87.34742,4.71,Singapore
+Europe,2014,91.19048,4.98,Slovakia
+Europe,2015,90.43898,4.76,Slovakia
+Europe,2016,88.57214,5.493,Slovakia
+Europe,2017,89.86213,4.818,Slovakia
+Europe,2018,89.54278,4.933,Slovakia
+Europe,2019,86.26564,5.22,Slovakia
+Europe,2020,88.92815,5.322,Slovakia
+Europe,2021,90.03538,5.252,Slovakia
+Europe,2022,88.91528,4.266,Slovakia
+Europe,2023,86.91497,5.503,Slovakia
+Europe,2014,95.92496,4.428,Slovenia
+Europe,2015,91.41991,4.18,Slovenia
+Europe,2016,93.9867,4.898,Slovenia
+Europe,2017,90.20425,4.64,Slovenia
+Europe,2018,89.24872,5.186,Slovenia
+Europe,2019,90.65086,5.204,Slovenia
+Europe,2020,90.75419,4.976,Slovenia
+Europe,2021,87.46496,5.346,Slovenia
+Europe,2022,75.63695,5.234,Slovenia
+Europe,2023,77.71068,5.24,Slovenia
+Africa,2014,75.63046,5.535,Somalia
+Africa,2015,76.40716,5.167,Somalia
+Africa,2016,79.67685,7.416,Somalia
+Africa,2017,81.8987,7.632,Somalia
+Africa,2018,79.84183,7.678,Somalia
+Africa,2019,80.28564,7.444,Somalia
+Africa,2020,83.01234,7.603,Somalia
+Africa,2021,84.53014,7.596,Somalia
+Africa,2022,80.9076,7.579,Somalia
+Africa,2023,74.88878,7.444,Somalia
+Africa,2014,80.07114,7.362,South Africa
+Africa,2015,79.84422,7.295,South Africa
+Africa,2016,77.51709,6.853,South Africa
+Africa,2017,80.48611,5.225,South Africa
+Africa,2018,78.87633,5.671,South Africa
+Africa,2019,81.29217,4.414,South Africa
+Africa,2020,84.64131,5.208,South Africa
+Africa,2021,81.33002,5.786,South Africa
+Africa,2022,85.35886,5.267,South Africa
+Africa,2023,82.12987,5.132,South Africa
+Asia,2014,84.50947,4.823,South Korea
+Asia,2015,78.11404,5.549,South Korea
+Asia,2016,77.81921,5.831,South Korea
+Asia,2017,92.15276,5.472,South Korea
+Asia,2018,91.26397,4.443,South Korea
+Asia,2019,91.67982,4.624,South Korea
+Asia,2020,95.50653,4.487,South Korea
+Asia,2021,90.45786,6.128,South Korea
+Asia,2022,93.59239,6.894,South Korea
+Asia,2023,91.19349,6.931,South Korea
+Africa,2014,91.73988,7.248,South Sudan
+Africa,2015,88.18541,6.86,South Sudan
+Africa,2016,86.34442,6.866,South Sudan
+Africa,2017,87.82682,6.631,South Sudan
+Africa,2018,95.31717,6.606,South Sudan
+Africa,2019,93.55348,6.118,South Sudan
+Africa,2020,90.52899,6.568,South Sudan
+Africa,2021,88.59254,6.281,South Sudan
+Africa,2022,86.39067,6.086,South Sudan
+Africa,2023,85.59607,6.553,South Sudan
+Europe,2014,86.18295,5.272,Spain
+Europe,2015,86.62139,5.57,Spain
+Europe,2016,90.46354,5.576,Spain
+Europe,2017,89.99848,5.841,Spain
+Europe,2018,88.71133,5.677,Spain
+Europe,2019,87.60826,5.82,Spain
+Europe,2020,87.49903,5.936,Spain
+Europe,2021,89.49417,5.119,Spain
+Europe,2022,89.44931,5.56,Spain
+Europe,2023,89.123,5.801,Spain
+Asia,2014,84.001,5.501,Sri Lanka
+Asia,2015,83.76855,5.576,Sri Lanka
+Asia,2017,73.64804,6.138,Sri Lanka
+Asia,2018,81.24496,4.811,Sri Lanka
+Asia,2019,68.90656,5.214,Sri Lanka
+Asia,2020,75.26068,5.129,Sri Lanka
+Asia,2021,74.00431,5.519,Sri Lanka
+Asia,2022,77.75521,5.613,Sri Lanka
+Asia,2023,75.29414,5.892,Sri Lanka
+Asia,2014,81.12401,5.866,State of Palestine
+Asia,2015,81.79305,5.577,State of Palestine
+Asia,2016,84.1906,5.701,State of Palestine
+Asia,2017,86.90088,5.711,State of Palestine
+Asia,2018,83.45091,5.68,State of Palestine
+Asia,2019,89.47074,5.999,State of Palestine
+Asia,2020,88.46564,4.994,State of Palestine
+Asia,2021,88.23162,5.694,State of Palestine
+Asia,2022,90.80756,5.892,State of Palestine
+Asia,2023,90.88142,4.67,State of Palestine
+Africa,2014,88.0857,4.88,Sudan
+Africa,2015,93.17554,4.942,Sudan
+Africa,2016,92.43633,4.994,Sudan
+Africa,2017,91.09274,5.002,Sudan
+Africa,2018,89.61513,4.977,Sudan
+Africa,2019,90.87261,5.313,Sudan
+Africa,2020,91.00989,5.547,Sudan
+Africa,2021,88.70202,5.431,Sudan
+Africa,2022,86.17166,5.594,Sudan
+Africa,2023,71.75834,5.869,Sudan
+Europe,2014,56.98595,5.965,Sweden
+Europe,2015,63.71472,5.587,Sweden
+Europe,2016,74.9633,5.886,Sweden
+Europe,2017,74.83042,5.772,Sweden
+Europe,2018,67.81436,5.887,Sweden
+Europe,2019,66.51309,5.646,Sweden
+Europe,2020,51.655,5.876,Sweden
+Europe,2021,61.61727,5.746,Sweden
+Europe,2022,48.94582,5.75,Sweden
+Europe,2023,86.78195,6.007,Sweden
+Europe,2014,92.12881,6.111,Switzerland
+Europe,2015,87.95983,6.242,Switzerland
+Europe,2016,82.96337,6.139,Switzerland
+Europe,2017,86.7101,5.978,Switzerland
+Europe,2018,82.66953,6.666,Switzerland
+Europe,2019,81.84198,5.405,Switzerland
+Europe,2020,81.97497,5.717,Switzerland
+Europe,2021,88.99323,5.095,Switzerland
+Europe,2022,84.00863,5.22,Switzerland
+Europe,2023,86.78484,4.994,Switzerland
+Asia,2014,85.93611,5.081,Syria
+Asia,2015,76.02521,5.447,Syria
+Asia,2016,71.8461,5.711,Syria
+Asia,2017,75.62987,5.92,Syria
+Asia,2018,81.03553,6.095,Syria
+Asia,2019,76.02941,5.768,Syria
+Asia,2020,60.24094,6.183,Syria
+Asia,2021,71.10774,5.953,Syria
+Asia,2022,82.29579,6.418,Syria
+Asia,2023,85.55221,6.85,Syria
+Asia,2014,74.37593,6.375,Taiwan 
+Asia,2015,73.93548,5.049,Taiwan 
+Asia,2016,68.76141,5.394,Taiwan 
+Asia,2017,62.06707,5.368,Taiwan 
+Asia,2018,64.51793,4.909,Taiwan 
+Asia,2019,84.4413,5.023,Taiwan 
+Asia,2020,77.01261,5.167,Taiwan 
+Asia,2021,72.55633,5.082,Taiwan 
+Asia,2022,77.32106,5.727,Taiwan 
+Asia,2023,81.94304,5.777,Taiwan 
+Asia,2014,81.6251,6.151,Tajikistan
+Asia,2015,89.4895,6.13,Tajikistan
+Asia,2016,88.37704,6.785,Tajikistan
+Asia,2017,85.29453,6.549,Tajikistan
+Asia,2018,90.32943,6.437,Tajikistan
+Asia,2019,85.21019,4.964,Tajikistan
+Asia,2020,89.01061,5.223,Tajikistan
+Asia,2021,56.13559,5.619,Tajikistan
+Asia,2022,68.64709,5.158,Tajikistan
+Africa,2014,78.1581,5.621,Tanzania
+Africa,2015,70.84268,5.537,Tanzania
+Africa,2016,86.85565,6.037,Tanzania
+Africa,2017,61.05937,5.996,Tanzania
+Africa,2018,65.67235,5.855,Tanzania
+Africa,2019,65.22871,5.579,Tanzania
+Africa,2020,64.96384,5.514,Tanzania
+Africa,2021,61.07798,5.441,Tanzania
+Africa,2022,60.93341,5.495,Tanzania
+Asia,2014,84.52586,4.215,Thailand
+Asia,2015,86.62553,4.363,Thailand
+Asia,2016,86.41621,4.03,Thailand
+Asia,2017,90.44739,4.097,Thailand
+Asia,2018,80.79106,3.333,Thailand
+Asia,2019,82.2033,3.466,Thailand
+Asia,2020,86.64367,3.596,Thailand
+Asia,2021,92.51282,3.483,Thailand
+Asia,2021,89.73499,3.333,Thailand
+Asia,2023,90.28407,3.108,Thailand
+Africa,2014,95.35792,7.08,Togo
+Africa,2015,91.964,7.267,Togo
+Africa,2016,91.72934,6.811,Togo
+Africa,2017,92.57514,6.148,Togo
+Africa,2018,90.93785,6.307,Togo
+Africa,2019,92.42427,6.7,Togo
+Africa,2020,94.34537,6.396,Togo
+Africa,2021,94.51791,6.495,Togo
+Africa,2022,91.33866,6.278,Togo
+Africa,2023,92.23787,6.345,Togo
+Americas,2014,95.11639,6.356,Trinidad and Tobago
+Americas,2015,93.60752,6.561,Trinidad and Tobago
+Americas,2016,91.86966,6.56,Trinidad and Tobago
+Americas,2017,91.72034,6.445,Trinidad and Tobago
+Americas,2018,93.11661,6.382,Trinidad and Tobago
+Americas,2019,92.47538,4.417,Trinidad and Tobago
+Americas,2020,93.21197,4.68,Trinidad and Tobago
+Americas,2021,90.83475,4.683,Trinidad and Tobago
+Americas,2022,90.11638,4.335,Trinidad and Tobago
+Americas,2023,93.44873,4.372,Trinidad and Tobago
+Africa,2014,94.94023,3.647,Tunisia
+Africa,2015,95.34375,4.395,Tunisia
+Africa,2016,95.52526,4.617,Tunisia
+Africa,2017,61.08356,4.595,Tunisia
+Africa,2018,59.92811,4.683,Tunisia
+Africa,2019,59.44166,4.769,Tunisia
+Africa,2020,87.95667,5.489,Tunisia
+Africa,2021,82.90045,4.757,Tunisia
+Africa,2022,78.79617,4.903,Tunisia
+Africa,2023,78.62912,4.907,Tunisia
+Asia,2014,80.95422,4.461,Turkey
+Asia,2015,87.73594,4.815,Turkey
+Asia,2016,91.7056,5.155,Turkey
+Asia,2017,85.77031,5.102,Turkey
+Asia,2018,90.65951,5.113,Turkey
+Asia,2019,83.94245,5.318,Turkey
+Asia,2020,88.11522,5.753,Turkey
+Asia,2021,89.80963,5.122,Turkey
+Asia,2022,87.53898,5.936,Turkey
+Asia,2023,87.03133,6.241,Turkey
+Asia,2014,89.10503,3.628,Turkmenistan
+Asia,2015,92.22388,3.585,Turkmenistan
+Asia,2016,77.54989,2.997,Turkmenistan
+Asia,2017,82.67123,4.134,Turkmenistan
+Asia,2018,75.36098,4.502,Turkmenistan
+Asia,2019,81.09027,4.514,Turkmenistan
+Asia,2020,81.55167,4.5,Turkmenistan
+Asia,2021,80.91044,4.909,Turkmenistan
+Asia,2022,77.53974,4.733,Turkmenistan
+Asia,2023,79.66942,4.09,Turkmenistan
+Africa,2014,81.11635,3.714,Uganda
+Africa,2015,80.69299,2.56,Uganda
+Africa,2016,79.77238,6.463,Uganda
+Africa,2017,78.31609,6.834,Uganda
+Africa,2018,80.79523,6.642,Uganda
+Africa,2019,81.07408,6.145,Uganda
+Africa,2020,54.51185,6.531,Uganda
+Africa,2021,58.47813,6.561,Uganda
+Africa,2022,53.21518,6.533,Uganda
+Africa,2023,55.68227,7.062,Uganda
+Europe,2014,94.82705,6.378,Ukraine
+Europe,2015,92.94538,6.375,Ukraine
+Europe,2016,94.99404,6.378,Ukraine
+Europe,2017,94.44437,6.587,Ukraine
+Europe,2018,93.70233,5.265,Ukraine
+Europe,2019,92.86405,6.052,Ukraine
+Europe,2020,94.78644,5.945,Ukraine
+Europe,2021,95.64719,5.911,Ukraine
+Europe,2022,94.17368,5.937,Ukraine
+Europe,2023,90.31582,6.139,Ukraine
+Asia,2014,93.49347,6.366,United Arab Emirates
+Asia,2015,92.64168,6.235,United Arab Emirates
+Asia,2016,86.35987,6.243,United Arab Emirates
+Asia,2017,83.83275,6.519,United Arab Emirates
+Asia,2018,81.57027,6.419,United Arab Emirates
+Asia,2019,82.96119,5.811,United Arab Emirates
+Asia,2020,81.43672,5.83,United Arab Emirates
+Asia,2021,84.19384,6.083,United Arab Emirates
+Asia,2022,82.43573,6.036,United Arab Emirates
+Asia,2023,80.91753,6.063,United Arab Emirates
+Europe,2014,82.27706,5.741,United Kingdom
+Europe,2015,83.28822,5.937,United Kingdom
+Europe,2016,81.49391,6.167,United Kingdom
+Europe,2017,84.25,6.249,United Kingdom
+Europe,2018,81.23739,6.665,United Kingdom
+Europe,2019,91.1407,6.462,United Kingdom
+Europe,2020,85.48244,6.761,United Kingdom
+Europe,2021,81.77856,6.723,United Kingdom
+Europe,2022,81.25007,5.528,United Kingdom
+Europe,2023,81.06155,5.354,United Kingdom
+Americas,2014,91.65594,4.657,United States
+Americas,2015,92.30921,4.931,United States
+Americas,2016,90.2533,5.057,United States
+Americas,2017,97.02426,5.084,United States
+Americas,2018,92.05213,5.204,United States
+Americas,2019,92.93975,5.346,United States
+Americas,2020,91.5648,5.218,United States
+Americas,2021,93.27198,4.652,United States
+Americas,2022,92.946,4.931,United States
+Americas,2023,91.20607,5.134,United States
+Americas,2014,93.36451,4.887,Uruguay
+Americas,2015,93.55823,4.77,Uruguay
+Americas,2016,93.18196,4.514,Uruguay
+Americas,2017,95.13521,4.884,Uruguay
+Americas,2018,93.83393,5.035,Uruguay
+Americas,2019,94.68639,4.947,Uruguay
+Americas,2020,95.87963,5.599,Uruguay
+Americas,2021,93.83337,5.332,Uruguay
+Americas,2022,92.76283,5.767,Uruguay
+Americas,2023,94.96614,5.39,Uruguay
+Asia,2014,94.63165,6.947,Uzbekistan
+Asia,2015,93.4393,6.003,Uzbekistan
+Asia,2016,71.23696,5.959,Uzbekistan
+Asia,2017,84.24021,5.801,Uzbekistan
+Asia,2018,93.42316,5.78,Uzbekistan
+Asia,2019,57.57223,5.971,Uzbekistan
+Asia,2020,58.83952,5.874,Uzbekistan
+Asia,2021,58.54501,5.84,Uzbekistan
+Asia,2022,46.39129,5.903,Uzbekistan
+Asia,2023,88.22462,5.793,Uzbekistan
+Americas,2014,86.25208,3.832,Venezuela
+Americas,2015,82.50724,4.071,Venezuela
+Americas,2016,81.69929,2.888,Venezuela
+Americas,2017,87.00119,2.817,Venezuela
+Americas,2018,88.53889,7.153,Venezuela
+Americas,2019,89.49893,6.995,Venezuela
+Americas,2020,89.11191,7.294,Venezuela
+Americas,2021,89.64587,6.199,Venezuela
+Americas,2022,89.34306,6.188,Venezuela
+Americas,2023,90.08325,6.518,Venezuela
+Asia,2014,72.66551,6.456,Vietnam
+Asia,2015,70.09007,6.381,Vietnam
+Asia,2016,67.5653,6.319,Vietnam
+Asia,2017,75.9163,6.23,Vietnam
+Asia,2018,75.07384,6.513,Vietnam
+Asia,2019,72.85909,6.457,Vietnam
+Asia,2020,70.06428,6.502,Vietnam
+Asia,2021,80.98263,6.47,Vietnam
+Asia,2022,84.39325,6.337,Vietnam
+Asia,2023,85.6657,4.345,Vietnam
+Asia,2014,87.98229,4.212,Yemen
+Asia,2015,78.97446,3.977,Yemen
+Asia,2016,88.28889,4.181,Yemen
+Asia,2017,78.29162,4.225,Yemen
+Asia,2018,70.78516,4.365,Yemen
+Asia,2019,77.43601,4.268,Yemen
+Asia,2020,83.68284,4.612,Yemen
+Asia,2021,81.25318,4.331,Yemen
+Asia,2022,88.25302,4.435,Yemen
+Asia,2023,83.20564,4.213,Yemen
+Africa,2014,79.02626,4.716,Zambia
+Africa,2015,63.77559,4.151,Zambia
+Africa,2016,70.50103,4.386,Zambia
+Africa,2017,67.53304,4.47,Zambia
+Africa,2018,68.72675,4.703,Zambia
+Africa,2019,73.98171,4.751,Zambia
+Africa,2020,61.89844,4.647,Zambia
+Africa,2021,89.43266,4.844,Zambia
+Africa,2022,88.86342,4.722,Zambia
+Africa,2014,89.76513,4.628,Zimbabwe
+Africa,2015,88.43508,4.554,Zimbabwe
+Africa,2016,90.60981,4.483,Zimbabwe
+Africa,2017,92.63778,4.908,Zimbabwe
+Africa,2018,93.31674,4.455,Zimbabwe
+Africa,2019,86.63245,4.435,Zimbabwe
+Africa,2020,90.75437,4.314,Zimbabwe
+Africa,2021,87.72687,4.55,Zimbabwe
+Africa,2022,87.30524,4.139,Zimbabwe
+Africa,2023,90.3051,6.269,Zimbabwe

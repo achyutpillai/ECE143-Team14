@@ -1,0 +1,1519 @@
+country name,continents,Healthy life expectancy,Happiness score,year
+Afghanistan,Asia,51.7,4.758,2014
+Afghanistan,Asia,52,3.832,2015
+Afghanistan,Asia,52.3,3.783,2016
+Afghanistan,Asia,52.6,3.572,2017
+Afghanistan,Asia,52.925,3.131,2018
+Afghanistan,Asia,53.25,3.983,2019
+Afghanistan,Asia,53.575,4.22,2020
+Afghanistan,Asia,53.9,2.662,2021
+Afghanistan,Asia,54.55,2.694,2022
+Afghanistan,Asia,54.875,2.375,2023
+Albania,Europe,68.72,4.634,2014
+Albania,Europe,69,5.485,2015
+Albania,Europe,69.025,5.269,2016
+Albania,Europe,69.05,5.867,2017
+Albania,Europe,69.075,5.51,2018
+Albania,Europe,69.1,4.551,2019
+Albania,Europe,69.125,4.814,2020
+Albania,Europe,69.15,4.607,2021
+Albania,Europe,69.166,4.511,2022
+Albania,Europe,69.175,4.64,2023
+Algeria,Africa,65.7,5.365,2014
+Algeria,Africa,65.9,5.255,2015
+Algeria,Africa,66.1,5.212,2015
+Algeria,Africa,66.2,5.464,2016
+Algeria,Africa,66.3,5.317,2017
+Algeria,Africa,66.4,5.605,2018
+Algeria,Africa,66.5,6.355,2019
+Algeria,Africa,66.6,5.341,2020
+Algeria,Africa,66.689,5.249,2021
+Algeria,Africa,66.724,5.043,2022
+Algeria,Africa,66.9,4.745,2023
+Angola,Africa,52.46,5.589,2014
+Angola,Africa,53.08,4.36,2015
+Angola,Africa,53.485,3.937,2016
+Angola,Africa,53.9,3.795,2017
+Angola,Africa,54.01,6.313,2018
+Angola,Africa,54.476,6.073,2019
+Angola,Africa,54.713,5.961,2020
+Angola,Africa,54.997,6.424,2021
+Angola,Africa,55.246,6.441,2022
+Angola,Africa,55.506,6.776,2023
+Argentina,Americas,66.66,6.671,2014
+Argentina,Americas,66.78,6.697,2015
+Argentina,Americas,66.9,6.427,2016
+Argentina,Americas,66.95,6.039,2017
+Argentina,Americas,67,5.793,2018
+Argentina,Americas,67.05,6.086,2019
+Argentina,Americas,67.1,5.901,2020
+Argentina,Americas,67.15,5.908,2021
+Argentina,Americas,67.2,6.261,2022
+Argentina,Americas,67.25,4.289,2023
+Armenia,Asia,65.52,4.178,2014
+Armenia,Asia,65.76,4.368,2015
+Armenia,Asia,66,4.26,2016
+Armenia,Asia,66.275,4.32,2017
+Armenia,Asia,66.55,4.277,2018
+Armenia,Asia,66.825,4.453,2019
+Armenia,Asia,67.1,4.348,2020
+Armenia,Asia,67.65,4.325,2021
+Armenia,Asia,67.925,4.288,2022
+Armenia,Asia,68.014,5.062,2023
+Australia,Oceania,70.52,5.382,2014
+Australia,Oceania,70.6,7.341,2015
+Australia,Oceania,70.675,7.285,2016
+Australia,Oceania,70.75,7.254,2017
+Australia,Oceania,70.825,7.45,2018
+Australia,Oceania,70.9,7.406,2019
+Australia,Oceania,70.975,7.196,2020
+Australia,Oceania,71.05,7.364,2021
+Australia,Oceania,71.125,7.289,2022
+Australia,Oceania,71.573,7.309,2023
+Austria,Europe,70.2,7.177,2014
+Austria,Europe,70.3,7.234,2015
+Austria,Europe,70.4,7.137,2016
+Austria,Europe,70.525,7.112,2017
+Austria,Europe,70.65,7.035,2018
+Austria,Europe,70.775,7.122,2019
+Austria,Europe,70.9,7.181,2020
+Austria,Europe,71.025,7.303,2021
+Austria,Europe,71.15,7.471,2022
+Austria,Europe,71.275,7.401,2023
+Azerbaijan,Asia,61.14,7.076,2014
+Azerbaijan,Asia,61.42,7.048,2015
+Azerbaijan,Asia,61.7,7.294,2016
+Azerbaijan,Asia,61.98,7.396,2017
+Azerbaijan,Asia,62.26,7.195,2018
+Azerbaijan,Asia,62.54,7.213,2019
+Azerbaijan,Asia,62.82,7.08,2020
+Azerbaijan,Asia,63.1,6.999,2021
+Azerbaijan,Asia,63.225,4.728,2022
+Azerbaijan,Asia,63.35,4.568,2023
+Bahrain,Asia,65.24,4.219,2014
+Bahrain,Asia,65.48,4.68,2015
+Bahrain,Asia,65.72,4.911,2016
+Bahrain,Asia,65.96,5.481,2017
+Bahrain,Asia,66.2,5.252,2018
+Bahrain,Asia,66.125,5.147,2019
+Bahrain,Asia,66.05,5.304,2020
+Bahrain,Asia,65.9,5.152,2021
+Bahrain,Asia,65.825,5.168,2022
+Bahrain,Asia,65.901,5.173,2023
+Bangladesh,Asia,62.76,4.824,2014
+Bangladesh,Asia,63.28,5.027,2015
+Bangladesh,Asia,63.8,6.69,2016
+Bangladesh,Asia,63.925,6.165,2017
+Bangladesh,Asia,64.05,6.007,2018
+Bangladesh,Asia,64.175,6.17,2019
+Bangladesh,Asia,64.3,6.227,2020
+Bangladesh,Asia,64.425,7.098,2021
+Bangladesh,Asia,64.55,6.173,2022
+Bangladesh,Asia,64.675,4.319,2023
+Belarus,Europe,62.3,5.083,2014
+Belarus,Europe,62.86,4.858,2015
+Belarus,Europe,63.42,4.986,2016
+Belarus,Europe,63.98,4.724,2017
+Belarus,Europe,64.54,4.66,2018
+Belarus,Europe,65.1,4.636,2019
+Belarus,Europe,65.325,4.633,2020
+Belarus,Europe,65.55,4.556,2021
+Belarus,Europe,65.775,4.31,2022
+Belarus,Europe,66,4.499,2023
+Belgium,Europe,69.84,5.658,2014
+Belgium,Europe,70,5.617,2015
+Belgium,Europe,70.15,5.463,2016
+Belgium,Europe,70.3,5.564,2017
+Belgium,Europe,70.45,5.526,2018
+Belgium,Europe,70.6,5.225,2019
+Belgium,Europe,70.75,5.749,2020
+Belgium,Europe,70.9,5.876,2021
+Belgium,Europe,71.05,5.812,2022
+Benin,Africa,54.04,5.553,2014
+Benin,Africa,54.3,5.234,2015
+Benin,Africa,54.6,5.821,2016
+Benin,Africa,54.9,7.262,2017
+Benin,Africa,55.2,7.219,2018
+Benin,Africa,55.5,7.117,2019
+Benin,Africa,55.8,6.854,2020
+Benin,Africa,56.1,7.111,2021
+Benin,Africa,56.4,6.935,2022
+Bhutan,Asia,62.6,6.904,2014
+Bhutan,Asia,62.989,6.949,2015
+Bhutan,Asia,63.024,6.928,2016
+Bhutan,Asia,63.668,6.892,2017
+Bhutan,Asia,64.001,6.772,2018
+Bhutan,Asia,64.121,6.839,2019
+Bhutan,Asia,64.459,6.882,2020
+Bhutan,Asia,64.603,6.857,2021
+Bhutan,Asia,64.998,6.451,2022
+Bolivia,Americas,62.5,3.667,2014
+Bolivia,Americas,62.7,3.87,2015
+Bolivia,Americas,62.85,3.193,2016
+Bolivia,Americas,63,3.479,2017
+Bolivia,Americas,63.15,3.347,2018
+Bolivia,Americas,63.3,3.625,2019
+Bolivia,Americas,63.45,4.007,2020
+Bolivia,Americas,63.6,4.853,2021
+Bolivia,Americas,63.75,5.82,2022
+Bosnia and Herzegovina,Europe,67,4.493,2014
+Bosnia and Herzegovina,Europe,67,4.217,2015
+Bosnia and Herzegovina,Europe,67,5.569,2016
+Bosnia and Herzegovina,Europe,67.05,4.939,2017
+Bosnia and Herzegovina,Europe,67.1,5.082,2018
+Bosnia and Herzegovina,Europe,67.15,5.374,2019
+Bosnia and Herzegovina,Europe,67.2,5.628,2020
+Bosnia and Herzegovina,Europe,67.25,5.298,2021
+Bosnia and Herzegovina,Europe,67.3,6.086,2022
+Bosnia and Herzegovina,Europe,67.742,5.781,2023
+Botswana,Africa,50.6,5.767,2014
+Botswana,Africa,51.04,5.865,2015
+Botswana,Africa,51.48,5.834,2016
+Botswana,Africa,51.92,5.77,2017
+Botswana,Africa,52.36,5.651,2018
+Botswana,Africa,52.8,5.916,2019
+Botswana,Africa,53.075,5.674,2020
+Botswana,Africa,53.35,5.559,2021
+Botswana,Africa,53.625,5.569,2022
+Botswana,Africa,53.9,5.929,2023
+Brazil,Americas,64.54,4.669,2014
+Brazil,Americas,64.7,4.995,2015
+Brazil,Americas,64.875,4.773,2016
+Brazil,Americas,65.05,5.124,2017
+Brazil,Americas,65.225,5.249,2018
+Brazil,Americas,65.4,5.117,2019
+Brazil,Americas,65.575,5.181,2020
+Brazil,Americas,65.75,5.09,2021
+Brazil,Americas,65.925,5.887,2022
+Bulgaria,Europe,65.76,5.749,2014
+Bulgaria,Europe,65.9,4.739,2015
+Bulgaria,Europe,66,5.451,2016
+Bulgaria,Europe,66.1,3.553,2017
+Bulgaria,Europe,66.2,3.52,2018
+Bulgaria,Europe,66.3,4.836,2019
+Bulgaria,Europe,66.4,4.128,2020
+Bulgaria,Europe,66.5,4.031,2021
+Bulgaria,Europe,66.6,3.762,2022
+Burkina Faso,Africa,52.52,3.461,2014
+Burkina Faso,Africa,52.96,3.471,2015
+Burkina Faso,Africa,53.4,3.435,2016
+Burkina Faso,Africa,53.775,6.637,2017
+Burkina Faso,Africa,54.15,6.321,2018
+Burkina Faso,Africa,54.525,6.691,2019
+Burkina Faso,Africa,54.9,7.001,2020
+Burkina Faso,Africa,55.275,6.837,2021
+Burkina Faso,Africa,55.65,7.038,2022
+Burundi,Africa,51.52,6.981,2014
+Burundi,Africa,53.38,6.547,2015
+Burundi,Africa,55.2,6.375,2016
+Burundi,Africa,55.874,6.333,2017
+Burundi,Africa,55.901,6.191,2018
+Burundi,Africa,56.001,6.451,2019
+Burundi,Africa,56.342,6.11,2020
+Burundi,Africa,56.792,6.01,2021
+Burundi,Africa,56.999,6.257,2022
+Cambodia,Asia,60.36,3.875,2014
+Cambodia,Asia,60.7,4.222,2015
+Cambodia,Asia,60.9,3.993,2016
+Cambodia,Asia,61.1,4.438,2017
+Cambodia,Asia,61.3,4.865,2018
+Cambodia,Asia,61.5,4.838,2019
+Cambodia,Asia,61.7,5.097,2020
+Cambodia,Asia,61.9,5.099,2021
+Cambodia,Asia,62.1,5.108,2022
+Cameroon,Africa,51.36,5.378,2014
+Cameroon,Africa,51.8,3.801,2015
+Cameroon,Africa,52.475,4.017,2016
+Cameroon,Africa,53.15,3.846,2017
+Cameroon,Africa,53.825,4.036,2018
+Cameroon,Africa,54.5,4.785,2019
+Cameroon,Africa,55.175,3.955,2020
+Cameroon,Africa,55.85,3.326,2021
+Cameroon,Africa,56.525,3.481,2022
+Canada,Americas,71.04,4.647,2014
+Canada,Americas,71.1,4.927,2015
+Canada,Americas,71.15,4.741,2016
+Canada,Americas,71.2,4.64,2017
+Canada,Americas,71.25,4.636,2018
+Canada,Americas,71.3,3.563,2019
+Canada,Americas,71.35,3.792,2020
+Canada,Americas,71.4,3.706,2021
+Canada,Americas,71.45,2.905,2022
+Central African Republic,Africa,42.84,4.156,2014
+Central African Republic,Africa,44.75,4.462,2015
+Central African Republic,Africa,45.3,4.111,2016
+Central African Republic,Africa,45.792,4.141,2017
+Central African Republic,Africa,46.002,4.161,2018
+Central African Republic,Africa,46.574,3.899,2019
+Central African Republic,Africa,46.989,3.674,2020
+Central African Republic,Africa,47.236,3.883,2021
+Central African Republic,Africa,47.348,4.162,2022
+Chad,Africa,49.36,5.122,2014
+Chad,Africa,49.74,4.998,2015
+Chad,Africa,50.12,4.377,2016
+Chad,Africa,50.5,4.555,2017
+Chad,Africa,50.875,4.25,2018
+Chad,Africa,51.25,3.851,2019
+Chad,Africa,51.625,4.35,2020
+Chad,Africa,52,4.292,2021
+Chad,Africa,53.125,4.741,2022
+Chile,Americas,69.22,4.245,2014
+Chile,Americas,69.4,4.271,2015
+Chile,Americas,69.55,4.24,2016
+Chile,Americas,69.7,5.038,2017
+Chile,Americas,69.85,4.816,2018
+Chile,Americas,70,5.074,2019
+Chile,Americas,70.15,5.251,2020
+Chile,Americas,70.3,4.937,2021
+Chile,Americas,70.45,5.241,2022
+China,Asia,67.48,7.418,2014
+China,Asia,67.74,7.482,2015
+China,Asia,68,7.486,2016
+China,Asia,68.125,7.488,2017
+China,Asia,68.25,7.65,2018
+China,Asia,68.375,7.426,2019
+China,Asia,68.5,7.415,2020
+China,Asia,68.625,7.594,2021
+China,Asia,68.75,7.304,2022
+Colombia,Americas,68.08,7.415,2014
+Colombia,Americas,68.3,7.175,2015
+Colombia,Americas,68.475,7.109,2016
+Colombia,Americas,68.65,7.025,2017
+Colombia,Americas,68.825,6.939,2018
+Colombia,Americas,69,6.918,2019
+Colombia,Americas,69.175,4.16,2020
+Colombia,Americas,69.35,3.568,2021
+Colombia,Americas,69.525,3.678,2022
+Comoros,Africa,57.24,3.435,2014
+Comoros,Africa,57.48,4.141,2015
+Comoros,Africa,58.725,4.632,2016
+Comoros,Africa,58.9,3.639,2017
+Comoros,Africa,59.425,3.743,2018
+Comoros,Africa,59.81,4.393,2019
+Comoros,Africa,59.998,4.033,2020
+Comoros,Africa,60.214,3.508,2021
+Comoros,Africa,60.372,3.46,2022
+Congo,Africa,54.52,4.559,2014
+Congo ,Africa,54.9,4.486,2015
+Congo,Africa,55.225,4.251,2016
+Congo ,Africa,55.55,4.397,2017
+Congo,Africa,55.875,6.063,2018
+Congo ,Africa,56.2,5.698,2019
+Congo ,Africa,56.525,5.789,2020
+Congo,Africa,56.85,6.494,2021
+Congo ,Africa,57.175,6.636,2022
+Costa Rica,Americas,69.84,6.74,2014
+Costa Rica,Americas,70,6.844,2015
+Costa Rica,Americas,70,6.533,2016
+Costa Rica,Americas,70,6.579,2017
+Costa Rica,Americas,70,6.32,2018
+Costa Rica,Americas,70,6.436,2019
+Costa Rica,Americas,70,5.942,2020
+Costa Rica,Americas,70,6.151,2021
+Costa Rica,Americas,70,6.436,2022
+Croatia,Europe,67.78,4.863,2014
+Croatia,Europe,67.9,4.846,2015
+Croatia,Europe,68.075,4.454,2016
+Croatia,Europe,68.25,4.653,2017
+Croatia,Europe,68.425,5.037,2018
+Croatia,Europe,68.6,5.095,2019
+Croatia,Europe,68.775,5.241,2020
+Croatia,Europe,68.95,5.196,2021
+Croatia,Europe,69.125,5.304,2022
+Cuba,Americas,78.51,5.131,2014
+Cuba,Americas,78.55,5.144,2015
+Cuba,Americas,78.6,5.771,2016
+Cuba,Americas,78.64,5.863,2017
+Cuba,Americas,78.69,6.025,2018
+Cuba,Americas,78.79,6.138,2019
+Cuba,Americas,78.89,6.168,2020
+Cuba,Americas,78.98,6.272,2021
+Cuba,Americas,79.08,6.408,2022
+Cuba,Americas,79.43,6.464,2023
+Cyprus,Asia,71.44,6.449,2014
+Cyprus,Asia,71.6,6.388,2015
+Cyprus,Asia,71.8,6.234,2016
+Cyprus,Asia,72,6.157,2017
+Cyprus,Asia,72.2,5.984,2018
+Cyprus,Asia,72.4,6.35,2019
+Cyprus,Asia,72.6,5.709,2020
+Cyprus,Asia,72.8,5.29,2021
+Cyprus,Asia,73,5.892,2022
+Czech Republic,Europe,68.18,3.838,2014
+Czech Republic,Europe,68.3,3.956,2015
+Czech Republic,Europe,68.425,3.973,2016
+Czech Republic,Europe,68.55,4.609,2017
+Czech Republic,Europe,68.675,3.545,2018
+Czech Republic,Europe,68.82,3.82,2019
+Czech Republic,Europe,68.925,4.51,2020
+Czech Republic,Europe,69.05,3.919,2021
+Czech Republic,Europe,69.175,3.955,2022
+Denmark,Europe,70.28,4.119,2014
+Denmark,Europe,70.5,4.884,2015
+Denmark,Europe,70.625,5.49,2016
+Denmark,Europe,70.75,5.213,2017
+Denmark,Europe,70.875,5.079,2018
+Denmark,Europe,71,4.921,2019
+Denmark,Europe,71.125,5.805,2020
+Denmark,Europe,71.25,3.984,2021
+Denmark,Europe,71.375,4.517,2022
+Djibouti,Africa,54.6,4.414,2014
+Djibouti,Africa,55.08,3.903,2015
+Djibouti,Africa,55.629,4.522,2016
+Djibouti,Africa,55.91,4.311,2017
+Djibouti,Africa,56.478,3.207,2018
+Djibouti,Africa,56.811,7.082,2019
+Djibouti,Africa,57.001,7.432,2020
+Djibouti,Africa,57.461,6.851,2021
+Djibouti,Africa,57.998,7.615,2022
+Dominican Republic,Americas,63.44,7.272,2014
+Dominican Republic,Americas,63.2,7.158,2015
+Dominican Republic,Americas,63.4,7.247,2016
+Dominican Republic,Americas,63.6,6.854,2017
+Dominican Republic,Americas,63.8,7.136,2018
+Dominican Republic,Americas,64,7.225,2019
+Dominican Republic,Americas,64.2,7.141,2020
+Dominican Republic,Americas,64.4,6.998,2021
+Dominican Republic,Americas,64.6,6.338,2022
+Ecuador,Americas,67.16,5.821,2014
+Ecuador,Americas,67.5,5.433,2015
+Ecuador,Americas,67.75,5.596,2016
+Ecuador,Americas,68,5.385,2017
+Ecuador,Americas,68.25,6.028,2018
+Ecuador,Americas,68.5,5.885,2019
+Ecuador,Americas,68.75,5.381,2020
+Ecuador,Americas,69,5.205,2021
+Ecuador,Americas,69.25,5.417,2022
+Egypt,Africa,61.94,5.626,2014
+Egypt,Africa,62,6.508,2015
+Egypt,Africa,62.25,6.287,2016
+Egypt,Africa,62.5,5.579,2017
+Egypt,Africa,62.75,5.418,2018
+Egypt,Africa,63,6.238,2019
+Egypt,Africa,63.25,6.833,2020
+Egypt,Africa,63.5,6.387,2021
+Egypt,Africa,63.75,6.69,2022
+El Salvador,Americas,63.68,5.627,2014
+El Salvador,Americas,63.5,5.439,2015
+El Salvador,Americas,63.85,5.795,2016
+El Salvador,Americas,64.2,6.062,2017
+El Salvador,Americas,64.55,6.276,2018
+El Salvador,Americas,64.9,6.137,2019
+El Salvador,Americas,65.25,6.26,2020
+El Salvador,Americas,65.6,6.269,2021
+El Salvador,Americas,65.95,5.865,2022
+Estonia,Europe,68.02,6.25,2014
+Estonia,Europe,68.3,6.331,2015
+Estonia,Europe,68.525,6.334,2016
+Estonia,Europe,68.75,6.698,2017
+Estonia,Europe,68.975,6.484,2018
+Estonia,Europe,69.2,6.608,2019
+Estonia,Europe,69.425,6.736,2020
+Estonia,Europe,69.65,6.79,2021
+Estonia,Europe,69.875,7.034,2022
+Eswatini,Africa,50.1,6.695,2014
+Eswatini,Africa,50.521,8.019,2015
+Eswatini,Africa,50.926,7.834,2016
+Eswatini,Africa,51.011,7.971,2017
+Eswatini,Africa,51.482,7.683,2018
+Eswatini,Africa,51.831,7.771,2019
+Eswatini,Africa,51.99,7.788,2020
+Eswatini,Africa,52,7.52,2021
+Eswatini,Africa,52.341,7.589,2022
+Ethiopia,Africa,57.64,7.558,2014
+Ethiopia,Africa,58.3,7.594,2015
+Ethiopia,Africa,58.7,7.649,2016
+Ethiopia,Africa,59.1,7.693,2017
+Ethiopia,Africa,59.5,7.515,2018
+Ethiopia,Africa,59.9,7.699,2019
+Ethiopia,Africa,60.3,7.545,2020
+Ethiopia,Africa,61.1,5.009,2022
+Finland,Europe,70.48,4.369,2014
+Finland,Europe,70.7,5.088,2015
+Finland,Europe,70.775,5.081,2016
+Finland,Europe,70.85,4.842,2017
+Finland,Europe,70.925,5.432,2018
+Finland,Europe,71,4.735,2019
+Finland,Europe,71.075,5.397,2020
+Finland,Europe,71.15,4.753,2021
+Finland,Europe,71.225,5.016,2022
+France,Europe,71.6,5.239,2014
+France,Europe,71.7,5.605,2015
+France,Europe,71.8,5.433,2016
+France,Europe,71.9,6.004,2017
+France,Europe,72,5.168,2018
+France,Europe,72.1,6.031,2019
+France,Europe,72.2,5.518,2020
+France,Europe,72.3,5.024,2021
+France,Europe,72.4,4.996,2022
+Gabon,Africa,55.38,5.838,2014
+Gabon,Africa,55.84,5.795,2015
+Gabon,Africa,56.3,5.961,2016
+Gabon,Africa,56.625,6.019,2017
+Gabon,Africa,56.95,5.946,2018
+Gabon,Africa,57.275,5.964,2019
+Gabon,Africa,57.6,6.115,2020
+Gabon,Africa,57.925,5.84,2021
+Gabon,Africa,58.25,6.128,2022
+Gabon,Africa,58.575,5.809,2023
+Gambia,Africa,57,5.887,2014
+Gambia,Africa,57.9,5.168,2015
+Gambia,Africa,58.16,5.541,2016
+Gambia,Africa,58.44,4.632,2017
+Gambia,Africa,58.921,5.066,2018
+Gambia,Africa,59.001,4.669,2019
+Gambia,Africa,59.216,4.174,2020
+Gambia,Africa,59.714,4.204,2021
+Gambia,Africa,59.892,3.559,2022
+Georgia,Asia,64.1,4.557,2014
+Georgia,Asia,64.2,3.929,2015
+Georgia,Asia,64.325,4.005,2016
+Georgia,Asia,64.45,4.328,2017
+Georgia,Asia,64.575,4.472,2018
+Georgia,Asia,64.7,4.026,2019
+Georgia,Asia,64.825,4.024,2020
+Georgia,Asia,64.95,5.701,2021
+Georgia,Asia,65.075,5.296,2022
+Germany,Europe,70.08,6.74,2014
+Germany,Europe,70.1,4.741,2015
+Germany,Europe,70.3,5.934,2016
+Germany,Europe,70.5,6.325,2017
+Germany,Europe,70.7,5.857,2018
+Germany,Europe,70.9,6.018,2019
+Germany,Europe,71.1,6.14,2020
+Germany,Europe,71.3,6.339,2021
+Germany,Europe,71.5,6.241,2022
+Ghana,Africa,56.06,6.431,2014
+Ghana,Africa,56.5,6.492,2015
+Ghana,Africa,56.875,5.371,2016
+Ghana,Africa,57.25,5.332,2017
+Ghana,Africa,57.625,5.452,2018
+Ghana,Africa,58,5.138,2019
+Ghana,Africa,58.375,5.487,2020
+Ghana,Africa,58.75,5.364,2021
+Ghana,Africa,59.125,5.367,2022
+Greece,Europe,70.32,5.65,2014
+Greece,Europe,70.4,5.938,2015
+Greece,Europe,70.525,6.091,2016
+Greece,Europe,70.65,6.035,2017
+Greece,Europe,70.775,6.453,2018
+Greece,Europe,70.9,6.554,2019
+Greece,Europe,71.025,6.357,2020
+Greece,Europe,71.15,4.867,2021
+Greece,Europe,71.275,4.212,2022
+Guatemala,Americas,60.38,4.445,2014
+Guatemala,Americas,60.66,4.507,2015
+Guatemala,Americas,60.94,4.573,2016
+Guatemala,Americas,61.22,4.298,2017
+Guatemala,Americas,61.5,4.18,2018
+Guatemala,Americas,61.7,4.379,2019
+Guatemala,Americas,61.9,4.1,2020
+Guatemala,Americas,62.1,4.549,2021
+Guatemala,Americas,62.3,3.628,2022
+Guatemala,Americas,62.9,7.672,2023
+Guinea,Africa,51.26,7.354,2014
+Guinea,Africa,51.38,7.42,2015
+Guinea,Africa,51.5,7.445,2016
+Guinea,Africa,51.95,7.385,2017
+Guinea,Africa,52.4,7.448,2018
+Guinea,Africa,52.85,7.66,2019
+Guinea,Africa,53.3,7.788,2020
+Guinea,Africa,53.75,7.858,2021
+Guinea,Africa,54.2,7.78,2022
+Guinea,Africa,54.65,7.889,2023
+Guyana,Americas,55.42,7.093,2014
+Guyana,Americas,55.718,6.583,2015
+Guyana,Americas,56.001,7.008,2016
+Guyana,Americas,56.24,6.283,2017
+Guyana,Americas,56.418,6.798,2018
+Guyana,Americas,56.593,6.959,2019
+Guyana,Americas,56.821,6.649,2020
+Guyana,Americas,57.12,6.667,2021
+Guyana,Americas,57.48,6.467,2022
+Haiti,Americas,33.32,6.666,2014
+Haiti,Americas,38.64,6.69,2015
+Haiti,Americas,43.96,6.714,2016
+Haiti,Americas,49.28,6.656,2016
+Haiti,Americas,54.6,6.614,2017
+Haiti,Americas,54.9,4.255,2018
+Haiti,Americas,55.2,3.972,2019
+Haiti,Americas,55.314,3.8,2020
+Haiti,Americas,55,3.918,2021
+Haiti,Americas,55.5,4.661,2022
+Honduras,Americas,61.7,4.783,2014
+Honduras,Americas,61.5,4.914,2015
+Honduras,Americas,61.3,4.887,2016
+Honduras,Americas,61.725,5.075,2017
+Honduras,Americas,62.15,5.14,2018
+Honduras,Americas,62.575,4.118,2019
+Honduras,Americas,63,4.922,2020
+Honduras,Americas,63.85,5.164,2021
+Honduras,Americas,64.275,4.279,2022
+Hong Kong,Asia,83.012,4.156,2014
+Hong Kong,Asia,83.214,3.801,2015
+Hong Kong,Asia,83.405,4.102,2016
+Hong Kong,Asia,84.146,4.203,2017
+Hong Kong,Asia,84.381,4.254,2018
+Hong Kong,Asia,84.632,4.349,2019
+Hong Kong,Asia,84.891,4.288,2020
+Hong Kong,Asia,85.032,4.122,2021
+Hong Kong,Asia,85.167,4.448,2022
+Hungary,Europe,66.44,4.892,2014
+Hungary,Europe,66.6,5.123,2015
+Hungary,Europe,66.75,4.911,2016
+Hungary,Europe,66.9,5.293,2017
+Hungary,Europe,67.05,6.62,2018
+Hungary,Europe,67.2,6.417,2019
+Hungary,Europe,67.35,6.522,2020
+Hungary,Europe,67.5,6.641,2021
+Hungary,Europe,67.65,6.725,2022
+Iceland,Europe,71.7,6.965,2014
+Iceland,Europe,71.9,6.984,2015
+Iceland,Europe,71.925,7.037,2016
+Iceland,Europe,71.95,6.874,2017
+Iceland,Europe,72,7.074,2018
+Iceland,Europe,72.025,7.118,2019
+Iceland,Europe,72.05,7.035,2020
+Iceland,Europe,72.075,7.312,2021
+Iceland,Europe,72.314,6.755,2022
+India,Asia,58.74,5.22,2014
+India,Asia,59.1,4.965,2015
+India,Asia,59.4,4.198,2016
+India,Asia,59.7,4.606,2017
+India,Asia,60,5.608,2018
+India,Asia,60.3,5.057,2019
+India,Asia,60.6,4.965,2020
+India,Asia,60.9,3.86,2021
+India,Asia,61.2,3.986,2022
+Indonesia,Asia,62.08,5.004,2014
+Indonesia,Asia,62.3,4.967,2015
+Indonesia,Asia,62.425,5.319,2016
+Indonesia,Asia,62.55,4.378,2017
+Indonesia,Asia,62.675,4.191,2018
+Indonesia,Asia,62.8,6.006,2019
+Indonesia,Asia,62.925,6.647,2020
+Indonesia,Asia,63.05,6.039,2021
+Indonesia,Asia,63.175,5.84,2022
+Iran,Asia,65.56,4.72,2014
+Iran,Asia,65.7,4.756,2015
+Iran,Asia,65.85,5.623,2016
+Iran,Asia,66,5.303,2017
+Iran,Asia,66.15,5.148,2018
+Iran,Asia,66.3,5.409,2019
+Iran,Asia,66.45,5.952,2020
+Iran,Asia,66.6,5.788,2021
+Iran,Asia,66.75,6.104,2022
+Iraq,Asia,60.86,6.452,2014
+Iraq,Asia,60.84,6.29,2015
+Iraq,Asia,60.82,5.743,2016
+Iraq,Asia,60.8,5.856,2017
+Iraq,Asia,61.275,5.985,2018
+Iraq,Asia,61.75,6.536,2019
+Iraq,Asia,62.225,6.465,2020
+Iraq,Asia,63.175,6.359,2021
+Iraq,Asia,63.65,6.325,2022
+Ireland,Europe,70.58,6.15,2014
+Ireland,Europe,70.7,4.045,2015
+Ireland,Europe,70.8,3.652,2016
+Ireland,Europe,70.9,3.902,2017
+Ireland,Europe,71,3.412,2018
+Ireland,Europe,71.1,3.505,2019
+Ireland,Europe,71.2,3.603,2020
+Ireland,Europe,71.3,4.874,2021
+Ireland,Europe,71.4,5.252,2022
+Israel,Asia,71.72,4.945,2014
+Israel,Asia,71.8,5.317,2015
+Israel,Asia,71.95,5.993,2016
+Israel,Asia,72.1,3.754,2017
+Israel,Asia,72.25,3.846,2018
+Israel,Asia,72.4,3.766,2019
+Israel,Asia,72.55,4.845,2020
+Israel,Asia,72.7,4.413,2021
+Israel,Asia,72.85,4.622,2022
+Italy,Europe,71.5,3.352,2014
+Italy,Europe,71.6,3.824,2015
+Italy,Europe,71.675,3.615,2016
+Italy,Europe,71.75,5.397,2017
+Italy,Europe,71.825,5.097,2018
+Italy,Europe,71.9,5.42,2019
+Italy,Europe,71.975,6.033,2020
+Italy,Europe,72.05,5.866,2021
+Italy,Europe,72.125,4.961,2022
+CÃ´te D'Ivoire,Africa,51.9,5.056,2014
+CÃ´te D'Ivoire,Africa,52.5,4.845,2015
+CÃ´te D'Ivoire,Africa,53.075,5.648,2016
+CÃ´te D'Ivoire,Africa,53.65,6.02,2017
+CÃ´te D'Ivoire,Africa,54.225,5.908,2018
+CÃ´te D'Ivoire,Africa,54.8,5.93,2019
+CÃ´te D'Ivoire,Africa,55.375,6.114,2020
+CÃ´te D'Ivoire,Africa,55.95,5.932,2021
+CÃ´te D'Ivoire,Africa,56.525,5.511,2022
+Jamaica,Americas,66.6,5.643,2014
+Jamaica,Americas,66.6,5.474,2015
+Jamaica,Americas,66.6,5.484,2016
+Jamaica,Americas,66.6,5.458,2017
+Jamaica,Americas,66.6,5.498,2018
+Jamaica,Americas,66.6,5.362,2019
+Jamaica,Americas,66.6,5.659,2020
+Jamaica,Americas,66.721,5.295,2021
+Jamaica,Americas,66.79,5.322,2022
+Japan,Asia,73.48,4.895,2014
+Japan,Asia,73.6,4.725,2015
+Japan,Asia,73.725,4.918,2016
+Japan,Asia,73.85,4.683,2017
+Japan,Asia,73.975,4.914,2018
+Japan,Asia,74.1,5.181,2019
+Japan,Asia,74.225,5.344,2020
+Japan,Asia,74.35,5.449,2021
+Japan,Asia,74.475,6.065,2022
+Jordan,Asia,67.42,6.038,2014
+Jordan,Asia,67.6,6.227,2015
+Jordan,Asia,67.6,5.861,2016
+Jordan,Asia,67.6,6.888,2017
+Jordan,Asia,67.6,7.591,2018
+Jordan,Asia,67.6,7.501,2019
+Jordan,Asia,67.6,7.498,2020
+Jordan,Asia,67.6,7.51,2021
+Jordan,Asia,67.6,7.476,2022
+Kazakhstan,Asia,62.8,7.565,2014
+Kazakhstan,Asia,63.4,7.449,2015
+Kazakhstan,Asia,63.8,5.348,2016
+Kazakhstan,Asia,64.2,5.027,2017
+Kazakhstan,Asia,64.6,5.146,2018
+Kazakhstan,Asia,65,4.522,2019
+Kazakhstan,Asia,65.4,4.989,2020
+Kazakhstan,Asia,65.8,4.635,2021
+Kazakhstan,Asia,66.2,4.72,2022
+Kenya,Africa,55.58,4.342,2014
+Kenya,Africa,56.1,4.179,2015
+Kenya,Africa,56.5,4.046,2016
+Kenya,Africa,56.9,3.818,2017
+Kenya,Africa,57.3,3.249,2018
+Kenya,Africa,57.7,4.224,2019
+Kenya,Africa,58.1,3.558,2020
+Kenya,Africa,58.5,3.93,2021
+Kenya,Africa,58.9,4.947,2022
+Kosovo,Europe,79.01,5.472,2014
+Kosovo,Europe,79.476,5.457,2015
+Kosovo,Europe,79.541,5.173,2016
+Kosovo,Europe,79.828,5.368,2017
+Kosovo,Europe,79.541,5.292,2018
+Kosovo,Europe,79,5.597,2019
+Kosovo,Europe,78.943,5.043,2020
+Kosovo,Europe,77.401,5.136,2021
+Kosovo,Europe,78.369,5.098,2022
+Kuwait,Asia,69.2,4.828,2014
+Kuwait,Asia,69.4,5.433,2015
+Kuwait,Asia,69.6,5.585,2016
+Kuwait,Asia,69.8,5.308,2017
+Kuwait,Asia,70,5.336,2018
+Kuwait,Asia,70.2,5.129,2019
+Kuwait,Asia,70.175,4.768,2020
+Kuwait,Asia,70.15,4.609,2021
+Kuwait,Asia,70.1,5.14,2022
+Kyrgyzstan,Asia,63.28,4.653,2014
+Kyrgyzstan,Asia,63.7,4.717,2015
+Kyrgyzstan,Asia,64.225,4.278,2016
+Kyrgyzstan,Asia,64.75,5.006,2017
+Kyrgyzstan,Asia,65.275,4.865,2018
+Kyrgyzstan,Asia,65.8,4.788,2019
+Kyrgyzstan,Asia,66.325,4.977,2020
+Kyrgyzstan,Asia,66.85,4.59,2021
+Kyrgyzstan,Asia,67.375,4.775,2022
+Laos,Asia,56.64,4.66,2014
+Laos,Asia,57.78,4.725,2015
+Laos,Asia,58.16,4.542,2016
+Laos,Asia,59.9,4.493,2017
+Laos,Asia,60.2,4.413,2018
+Laos,Asia,60.5,4.462,2019
+Laos,Asia,60.8,4.886,2020
+Laos,Asia,61.1,4.785,2021
+Laos,Asia,61.529,5.094,2022
+Latvia,Europe,65.5,7.046,2014
+Latvia,Europe,65.8,7.257,2015
+Latvia,Europe,65.9,7.007,2016
+Latvia,Europe,66,6.965,2017
+Latvia,Europe,66.1,6.76,2018
+Latvia,Europe,66.2,7.018,2019
+Latvia,Europe,66.3,6.83,2020
+Latvia,Europe,66.4,7.041,2021
+Latvia,Europe,66.5,7.06,2022
+Lebanon,Asia,65.64,6.828,2014
+Lebanon,Asia,65.7,6.87,2015
+Lebanon,Asia,65.775,7.173,2016
+Lebanon,Asia,65.85,6.841,2017
+Lebanon,Asia,65.925,7.261,2018
+Lebanon,Asia,66,7.353,2019
+Lebanon,Asia,66.075,7.359,2020
+Lebanon,Asia,66.15,7.433,2021
+Lebanon,Asia,66.225,7.111,2022
+Lesotho,Africa,42.9,7.079,2014
+Lesotho,Africa,43.001,7.159,2015
+Lesotho,Africa,43.482,7.331,2016
+Lesotho,Africa,43.874,6.927,2017
+Lesotho,Africa,43.999,7.332,2018
+Lesotho,Africa,44.216,7.195,2019
+Lesotho,Africa,44.68,7.578,2020
+Lesotho,Africa,44.901,7.662,2021
+Lesotho,Africa,44.2,6.854,2022
+Liberia,Africa,52.1,6.334,2014
+Liberia,Africa,52.42,6.354,2015
+Liberia,Africa,52.5,6.057,2016
+Liberia,Africa,53.1,5.839,2017
+Liberia,Africa,53.7,6.009,2018
+Liberia,Africa,54.3,6.027,2019
+Liberia,Africa,54.9,5.848,2020
+Liberia,Africa,56.7,5.955,2021
+Liberia,Africa,56.989,6.199,2022
+Libya,Africa,64.525,6.488,2014
+Libya,Africa,64.75,6.467,2015
+Libya,Africa,64.975,6.258,2016
+Libya,Africa,65.2,4.197,2017
+Libya,Africa,65.721,3.739,2018
+Libya,Africa,65.998,3.57,2019
+Libya,Africa,66.104,4.445,2020
+Libya,Africa,66.529,4.543,2021
+Libya,Africa,66.97,5.038,2022
+Lithuania,Europe,65.1,5.257,2014
+Lithuania,Europe,65.3,5.056,2015
+Lithuania,Europe,65.65,4.849,2016
+Lithuania,Europe,66,6.208,2017
+Lithuania,Europe,66.35,5.374,2018
+Lithuania,Europe,66.7,5.709,2019
+Lithuania,Europe,67.05,5.311,2020
+Lithuania,Europe,67.4,5.89,2021
+Lithuania,Europe,67.75,6.309,2022
+Luxembourg,Europe,70.7,5.87,2014
+Luxembourg,Europe,70.9,6.516,2015
+Luxembourg,Europe,71.1,6.238,2016
+Luxembourg,Europe,71.3,5.911,2017
+Luxembourg,Europe,71.5,5.845,2018
+Luxembourg,Europe,71.525,6.057,2019
+Luxembourg,Europe,71.55,6.263,2020
+Luxembourg,Europe,71.575,5.968,2021
+Luxembourg,Europe,71.6,5.959,2022
+Luxembourg,Europe,71.675,5.923,2023
+Madagascar,Africa,55.34,5.911,2014
+Madagascar,Africa,55.58,5.794,2015
+Madagascar,Africa,55.82,5.908,2016
+Madagascar,Africa,56.06,6.118,2017
+Madagascar,Africa,56.3,6.091,2018
+Madagascar,Africa,56.55,6.178,2019
+Madagascar,Africa,56.8,6.295,2020
+Madagascar,Africa,57.05,5.598,2021
+Madagascar,Africa,57.3,4.93,2022
+Madagascar,Africa,58.05,6,2023
+Malawi,Africa,53.84,5.132,2014
+Malawi,Africa,54.9,5.172,2015
+Malawi,Africa,55.45,5.333,2016
+Malawi,Africa,56,5.405,2017
+Malawi,Africa,56.55,5.271,2018
+Malawi,Africa,57.1,4.808,2019
+Malawi,Africa,58.2,4.639,2021
+Malawi,Africa,58.75,4.453,2022
+Malaysia,Asia,65.4,5.719,2014
+Malaysia,Asia,65.48,5.886,2015
+Malaysia,Asia,65.56,5.383,2016
+Malaysia,Asia,65.64,5.514,2017
+Malaysia,Asia,65.72,5.736,2018
+Malaysia,Asia,65.8,5.759,2019
+Malaysia,Asia,65.725,5.835,2020
+Malaysia,Asia,65.7,5.97,2021
+Malaysia,Asia,65.675,5.95,2022
+Malaysia,Asia,65.65,5.534,2023
+Maldives,Asia,70.286,6.272,2014
+Maldives,Asia,70.614,6.168,2015
+Maldives,Asia,70.851,6.26,2016
+Maldives,Asia,71.001,6.006,2017
+Maldives,Asia,71.373,4.223,2018
+Maldives,Asia,71.689,4.576,2019
+Maldives,Asia,71.922,4.015,2020
+Maldives,Asia,72.182,4.27,2021
+Maldives,Asia,72.647,4.256,2022
+Mali,Africa,52.66,3.795,2014
+Mali,Africa,53,4.905,2015
+Mali,Africa,53.4,4.358,2016
+Mali,Africa,53.8,4.396,2017
+Mali,Africa,54.2,4.476,2018
+Mali,Africa,54.6,4.656,2019
+Mali,Africa,55,4.619,2020
+Mali,Africa,55.4,4.547,2021
+Mali,Africa,55.8,4.465,2022
+Malta,Europe,71.12,5.522,2014
+Malta,Europe,71.3,5.891,2015
+Malta,Europe,71.35,5.177,2016
+Malta,Europe,71.4,4.86,2017
+Malta,Europe,71.45,5.64,2018
+Malta,Europe,71.5,6.126,2019
+Malta,Europe,71.55,5,2020
+Malta,Europe,71.6,5.077,2021
+Malta,Europe,71.65,5.759,2022
+Mauritania,Africa,58.6,6.425,2014
+Mauritania,Africa,58.9,6.294,2017
+Mauritania,Africa,59.125,6.648,2018
+Mauritania,Africa,59.35,6.16,2019
+Mauritania,Africa,59.575,6.076,2020
+Mauritania,Africa,59.8,6.585,2021
+Mauritania,Africa,60.475,6.798,2022
+Mauritius,Africa,63.975,6.48,2014
+Mauritius,Africa,63.95,6.18,2015
+Mauritius,Africa,63.925,6.146,2016
+Mauritius,Africa,63.9,5.947,2017
+Mauritius,Africa,63.875,6.094,2018
+Mauritius,Africa,63.85,6.106,2019
+Mauritius,Africa,63.825,4.641,2020
+Mauritius,Africa,64,4.698,2021
+Mauritius,Africa,64.149,4.737,2022
+Mexico,Americas,65.66,4.921,2014
+Mexico,Americas,65.8,5.208,2015
+Mexico,Americas,65.8,5.402,2016
+Mexico,Americas,65.8,5.252,2017
+Mexico,Americas,65.8,4.905,2018
+Mexico,Americas,65.8,4.857,2019
+Mexico,Americas,65.8,5.63,2020
+Mexico,Americas,65.8,5.297,2021
+Mexico,Americas,65.8,5.685,2022
+Moldova,Europe,62.52,5.076,2014
+Moldova,Europe,62.9,5.364,2015
+Moldova,Europe,63.3,5.044,2016
+Moldova,Europe,63.7,4.704,2017
+Moldova,Europe,64.1,4.876,2018
+Moldova,Europe,64.5,4.623,2019
+Moldova,Europe,64.9,4.859,2020
+Moldova,Europe,65.3,5.197,2021
+Moldova,Europe,65.7,5.284,2022
+Mongolia,Asia,59.48,4.667,2014
+Mongolia,Asia,59.9,5.145,2015
+Mongolia,Asia,60,4.669,2016
+Mongolia,Asia,60.1,4.967,2017
+Mongolia,Asia,60.2,5.125,2018
+Mongolia,Asia,60.3,5.07,2019
+Mongolia,Asia,60.4,5.729,2020
+Mongolia,Asia,60.5,5.881,2021
+Mongolia,Asia,60.6,5.94,2022
+Montenegro,Europe,66.36,5.97,2014
+Montenegro,Europe,66.44,6.229,2015
+Montenegro,Europe,66.52,6.353,2016
+Montenegro,Europe,66.6,6.055,2017
+Montenegro,Europe,66.7,5.491,2018
+Montenegro,Europe,66.8,4.653,2019
+Montenegro,Europe,66.9,4.595,2020
+Montenegro,Europe,67,5.206,2021
+Montenegro,Europe,67.1,5.032,2022
+Morocco,Africa,62.98,4.983,2014
+Morocco,Africa,63.3,5.233,2015
+Morocco,Africa,63.4,5.172,2016
+Morocco,Africa,63.5,5.271,2017
+Morocco,Africa,63.6,5.154,2018
+Morocco,Africa,63.7,5.167,2019
+Morocco,Africa,63.8,4.024,2020
+Morocco,Africa,63.9,2.634,2021
+Morocco,Africa,64,2.179,2022
+Mozambique,Africa,45.66,3.808,2014
+Mozambique,Africa,46.92,3.795,2015
+Mozambique,Africa,48.6,3.512,2016
+Mozambique,Africa,49.5,3.701,2017
+Mozambique,Africa,49.95,4.221,2018
+Mozambique,Africa,50.4,4.196,2019
+Mozambique,Africa,51.3,4.571,2021
+Mozambique,Africa,51.75,2.702,2022
+Myanmar,Asia,59.12,4.135,2014
+Myanmar,Asia,59.6,5.121,2015
+Myanmar,Asia,59.925,4.042,2016
+Myanmar,Asia,60.25,5.754,2017
+Myanmar,Asia,60.575,5.615,2018
+Myanmar,Asia,60.9,5.434,2019
+Myanmar,Asia,61.225,5.647,2020
+Myanmar,Asia,61.55,5.494,2021
+Myanmar,Asia,61.928,5.33,2022
+Namibia,Africa,55.35,5.554,2014
+Namibia,Africa,55.725,5.467,2015
+Namibia,Africa,56.1,5.066,2016
+Namibia,Africa,56.475,5.432,2017
+Namibia,Africa,56.85,5.771,2018
+Namibia,Africa,57.225,5.596,2019
+Namibia,Africa,57.689,6.126,2020
+Namibia,Africa,57.992,5.711,2021
+Namibia,Africa,58.022,5.866,2022
+Namibia,Africa,58.407,6.273,2023
+Nepal,Asia,60.14,6.391,2014
+Nepal,Asia,60.2,6.865,2015
+Nepal,Asia,60.475,7.038,2016
+Nepal,Asia,60.75,6.958,2017
+Nepal,Asia,61.025,7.097,2018
+Nepal,Asia,61.3,7.101,2019
+Nepal,Asia,61.575,6.964,2020
+Nepal,Asia,61.85,7.131,2021
+Nepal,Asia,62.125,6.891,2022
+Netherlands,Europe,71.06,7.061,2014
+Netherlands,Europe,71.1,7.243,2015
+Netherlands,Europe,71.175,7.404,2016
+Netherlands,Europe,71.25,7.228,2017
+Netherlands,Europe,71.325,3.98,2018
+Netherlands,Europe,71.4,4.64,2019
+Netherlands,Europe,71.475,4.381,2020
+Netherlands,Europe,71.55,3.551,2021
+Netherlands,Europe,71.625,3.816,2022
+Netherlands,Europe,71.912,3.676,2023
+New Zealand,Oceania,69.88,4.079,2014
+New Zealand,Oceania,69.9,4.071,2015
+New Zealand,Oceania,69.975,4.339,2016
+New Zealand,Oceania,70.05,4.019,2017
+New Zealand,Oceania,70.125,3.83,2018
+New Zealand,Oceania,70.2,4.891,2019
+New Zealand,Oceania,70.275,5.148,2020
+New Zealand,Oceania,70.35,3.946,2021
+New Zealand,Oceania,70.425,4.279,2022
+New Zealand,Oceania,70.762,4.035,2023
+Nicaragua,Americas,65.1,3.476,2014
+Nicaragua,Americas,65.2,3.417,2015
+Nicaragua,Americas,65.275,3.335,2016
+Nicaragua,Americas,65.35,3.869,2017
+Nicaragua,Americas,65.425,3.635,2018
+Nicaragua,Americas,65.5,3.356,2019
+Nicaragua,Americas,65.575,6.012,2020
+Nicaragua,Americas,65.65,6.239,2021
+Nicaragua,Americas,65.725,5.807,2022
+Nicaragua,Americas,65.902,5.385,2023
+Niger,Africa,52.34,5.914,2014
+Niger,Africa,52.78,5.77,2015
+Niger,Africa,53.22,5.963,2016
+Niger,Africa,53.66,6.322,2017
+Niger,Africa,54.1,5.339,2018
+Niger,Africa,54.45,5.428,2019
+Niger,Africa,54.8,6.014,2020
+Niger,Africa,55.15,6.01,2021
+Niger,Africa,55.5,5.198,2022
+Niger,Africa,56.55,4.014,2023
+Nigeria,Africa,51.5,3.762,2014
+Nigeria,Africa,52.14,4.667,2015
+Nigeria,Africa,52.46,4.313,2016
+Nigeria,Africa,53.1,3.676,2017
+Nigeria,Africa,53.425,3.975,2018
+Nigeria,Africa,53.75,4.582,2019
+Nigeria,Africa,54.075,4.016,2020
+Nigeria,Africa,54.4,4.742,2021
+Nigeria,Africa,54.725,4.416,2022
+Nigeria,Africa,55.05,4.988,2023
+Macedonia,Europe,65.22,4.211,2014
+Macedonia,Europe,65.3,6.328,2015
+Macedonia,Europe,65.5,5.774,2016
+Macedonia,Europe,65.7,6.155,2017
+Macedonia,Europe,65.9,5.963,2018
+Macedonia,Europe,66.1,6.38,2019
+Macedonia,Europe,66.3,6.452,2020
+Macedonia,Europe,66.5,6.613,2021
+Macedonia,Europe,66.7,6.591,2022
+Macedonia,Europe,66.9,6.676,2023
+Norway,Europe,71.2,6.157,2014
+Norway,Europe,71.25,6.444,2015
+Norway,Europe,71.3,6.299,2016
+Norway,Europe,71.35,4.149,2017
+Norway,Europe,71.4,4.248,2018
+Norway,Europe,71.45,4.5,2019
+Norway,Europe,71.5,4.772,2020
+Norway,Europe,71.55,4.785,2021
+Norway,Europe,71.601,4.673,2022
+Oman,Asia,76.48,3.923,2014
+Oman,Asia,76.74,4.472,2015
+Oman,Asia,77.01,4.678,2016
+Oman,Asia,77.27,4.314,2017
+Oman,Asia,77.53,4.153,2018
+Oman,Asia,77.74,4.724,2019
+Oman,Asia,78.16,5.477,2020
+Oman,Asia,78.37,5.648,2021
+Oman,Asia,78.37,5.61,2022
+Oman,Asia,78.58,6.174,2023
+Pakistan,Asia,55.54,6.015,2014
+Pakistan,Asia,55.8,5.949,2015
+Pakistan,Asia,56.075,5.741,2016
+Pakistan,Asia,56.35,6.581,2017
+Pakistan,Asia,56.625,6.525,2018
+Pakistan,Asia,56.9,6.829,2019
+Pakistan,Asia,57.175,6.963,2020
+Pakistan,Asia,57.45,6.802,2021
+Pakistan,Asia,57.741,6.91,2022
+Pakistan,Asia,57.989,7.32,2023
+Panama,Americas,68.14,6.236,2014
+Panama,Americas,68.3,6.824,2015
+Panama,Americas,68.4,6.41,2016
+Panama,Americas,68.5,6.55,2017
+Panama,Americas,68.6,6.432,2018
+Panama,Americas,68.7,5.964,2019
+Panama,Americas,68.9,5.991,2021
+Panama,Americas,69,7.038,2022
+Panama,Americas,69.321,5.102,2023
+Paraguay,Americas,65.52,5.554,2014
+Paraguay,Americas,65.6,5.59,2015
+Paraguay,Americas,65.65,5.792,2016
+Paraguay,Americas,65.7,5.996,2017
+Paraguay,Americas,65.8,5.756,2018
+Paraguay,Americas,65.85,5.917,2019
+Paraguay,Americas,65.9,6.017,2020
+Paraguay,Americas,65.95,5.578,2021
+Paraguay,Americas,66.213,5.326,2022
+Peru,Americas,68.54,5.812,2014
+Peru,Americas,68.8,5.959,2015
+Peru,Americas,68.975,5.687,2016
+Peru,Americas,69.15,4.609,2017
+Peru,Americas,69.325,4.493,2018
+Peru,Americas,69.5,4.586,2019
+Peru,Americas,69.675,5.031,2020
+Peru,Americas,69.85,4.885,2021
+Peru,Americas,70.025,4.913,2022
+Peru,Americas,70.581,4.825,2023
+Philippines,Asia,61.72,5.334,2014
+Philippines,Asia,61.78,5.465,2015
+Philippines,Asia,61.84,5.563,2016
+Philippines,Asia,61.9,6.011,2017
+Philippines,Asia,61.925,5.721,2018
+Philippines,Asia,61.95,5.788,2019
+Philippines,Asia,61.975,5.196,2020
+Philippines,Asia,62,4.801,2021
+Philippines,Asia,62.025,5.455,2022
+Philippines,Asia,62.05,5.223,2023
+Poland,Europe,67.64,5.283,2014
+Poland,Europe,67.82,5.125,2015
+Poland,Europe,68,5.304,2016
+Poland,Europe,68.175,5.615,2017
+Poland,Europe,68.35,5.65,2018
+Poland,Europe,68.525,5.386,2019
+Poland,Europe,68.7,5.722,2020
+Poland,Europe,68.875,4.383,2021
+Poland,Europe,69.05,5.085,2022
+Poland,Europe,69.225,4.97,2023
+Portugal,Europe,70.02,5.386,2014
+Portugal,Europe,70.26,5.312,2015
+Portugal,Europe,70.5,4.897,2016
+Portugal,Europe,70.625,5.057,2017
+Portugal,Europe,70.75,4.803,2018
+Portugal,Europe,70.875,5.326,2019
+Portugal,Europe,71,4.596,2020
+Portugal,Europe,71.125,4.595,2021
+Portugal,Europe,71.25,4.833,2022
+Portugal,Europe,71.375,4.654,2023
+Qatar,Asia,65.04,4.28,2014
+Qatar,Asia,65.38,4.654,2015
+Qatar,Asia,66.4,4.932,2016
+Qatar,Asia,66.921,5.178,2017
+Qatar,Asia,67.034,4.74,2018
+Qatar,Asia,67.488,4.439,2019
+Qatar,Asia,67.857,4.176,2020
+Qatar,Asia,67.999,4.786,2021
+Qatar,Asia,68.236,4.224,2022
+Qatar,Asia,68.712,4.623,2023
+Romania,Europe,66.12,4.434,2014
+Romania,Europe,66.3,4.431,2015
+Romania,Europe,66.425,4.314,2016
+Romania,Europe,66.55,4.886,2017
+Romania,Europe,66.675,4.574,2018
+Romania,Europe,66.8,4.441,2019
+Romania,Europe,66.925,4.834,2020
+Romania,Europe,67.05,4.436,2021
+Romania,Europe,67.175,4.451,2022
+Romania,Europe,67.5,4.491,2023
+Russia,Europe,62.26,4.748,2014
+Russia,Europe,62.7,4.441,2015
+Russia,Europe,63.075,4.917,2016
+Russia,Europe,63.45,4.35,2017
+Russia,Europe,63.825,3.809,2018
+Russia,Europe,64.2,4.233,2019
+Russia,Europe,64.575,4.605,2020
+Russia,Europe,64.95,4.975,2021
+Russia,Europe,65.325,4.812,2022
+Russia,Europe,65.721,5.1,2023
+Rwanda,Africa,55.3,5.449,2014
+Rwanda,Africa,56.5,5.982,2015
+Rwanda,Africa,57.1,4.622,2016
+Rwanda,Africa,57.7,5.474,2017
+Rwanda,Africa,58.3,7.464,2018
+Rwanda,Africa,58.9,7.452,2019
+Rwanda,Africa,59.225,7.631,2020
+Rwanda,Africa,59.55,7.502,2021
+Rwanda,Africa,59.875,7.564,2022
+Rwanda,Africa,60.2,7.471,2023
+Saudi Arabia,Asia,63,7.324,2014
+Saudi Arabia,Asia,63.2,7.541,2015
+Saudi Arabia,Asia,63.4,7.459,2016
+Saudi Arabia,Asia,63.6,7.463,2017
+Saudi Arabia,Asia,63.8,7.425,2018
+Saudi Arabia,Asia,64,7.504,2019
+Saudi Arabia,Asia,64.2,7.314,2020
+Saudi Arabia,Asia,64.4,7.39,2021
+Saudi Arabia,Asia,64.6,7.305,2022
+Saudi Arabia,Asia,64.921,7.604,2023
+Senegal,Africa,57.9,7.191,2014
+Senegal,Africa,58.2,7.25,2015
+Senegal,Africa,58.5,7.28,2016
+Senegal,Africa,58.8,7.306,2017
+Senegal,Africa,59.1,7.418,2018
+Senegal,Africa,59.4,7.226,2019
+Senegal,Africa,59.7,7.327,2020
+Senegal,Africa,60,7.37,2021
+Senegal,Africa,60.3,7.205,2022
+Senegal,Africa,60.621,7.257,2023
+Serbia,Europe,65.98,4.46,2014
+Serbia,Europe,66.12,4.944,2015
+Serbia,Europe,66.26,5.104,2016
+Serbia,Europe,66.4,5.353,2017
+Serbia,Europe,66.525,5.687,2018
+Serbia,Europe,66.65,5.386,2019
+Serbia,Europe,66.775,5.448,2020
+Serbia,Europe,66.9,5.772,2021
+Serbia,Europe,67.025,6.275,2022
+Serbia,Europe,67.15,5.924,2023
+Sierra Leone,Africa,48.94,5.819,2014
+Sierra Leone,Africa,49.32,6.113,2015
+Sierra Leone,Africa,49.7,6.287,2016
+Sierra Leone,Africa,50.5,6.095,2017
+Sierra Leone,Africa,51.3,6.392,2018
+Sierra Leone,Africa,52.1,3.737,2019
+Sierra Leone,Africa,52.9,4.277,2020
+Sierra Leone,Africa,54.5,4.236,2021
+Sierra Leone,Africa,55.3,4.267,2022
+Sierra Leone,Africa,55.821,4.101,2023
+Singapore,Asia,72.48,3.716,2014
+Singapore,Asia,72.84,4.181,2015
+Singapore,Asia,73.02,3.671,2016
+Singapore,Asia,73.2,4.235,2017
+Singapore,Asia,73.3,4.616,2018
+Singapore,Asia,73.4,5.164,2019
+Singapore,Asia,73.5,5.004,2020
+Singapore,Asia,73.6,4.501,2021
+Singapore,Asia,73.8,4.71,2022
+Slovakia,Europe,66.94,4.98,2014
+Slovakia,Europe,67.16,4.76,2015
+Slovakia,Europe,67.38,5.493,2016
+Slovakia,Europe,67.6,4.818,2017
+Slovakia,Europe,67.825,4.933,2018
+Slovakia,Europe,68.05,5.22,2019
+Slovakia,Europe,68.275,5.322,2020
+Slovakia,Europe,68.5,5.252,2021
+Slovakia,Europe,68.725,4.266,2022
+Slovakia,Europe,68.95,5.503,2023
+Slovenia,Europe,69.68,4.428,2014
+Slovenia,Europe,69.84,4.18,2015
+Slovenia,Europe,70,4.898,2016
+Slovenia,Europe,70.175,4.64,2017
+Slovenia,Europe,70.35,5.186,2018
+Slovenia,Europe,70.525,5.204,2019
+Slovenia,Europe,70.7,4.976,2020
+Slovenia,Europe,70.875,5.346,2021
+Slovenia,Europe,71.05,5.234,2022
+Slovenia,Europe,71.225,5.24,2023
+Somalia,Africa,55.28,5.535,2014
+Somalia,Africa,55.69,5.167,2015
+Somalia,Africa,56.11,7.416,2016
+Somalia,Africa,56.52,7.632,2017
+Somalia,Africa,56.94,7.678,2018
+Somalia,Africa,57.22,7.444,2019
+Somalia,Africa,57.5,7.603,2020
+Somalia,Africa,57.78,7.596,2021
+Somalia,Africa,58.06,7.579,2022
+Somalia,Africa,58.34,7.444,2023
+South Africa,Africa,53.2,7.362,2014
+South Africa,Africa,54.1,7.295,2015
+South Africa,Africa,54.625,6.853,2016
+South Africa,Africa,55.15,5.225,2017
+South Africa,Africa,55.675,5.671,2018
+South Africa,Africa,56.2,4.414,2019
+South Africa,Africa,56.725,5.208,2020
+South Africa,Africa,57.25,5.786,2021
+South Africa,Africa,57.581,5.267,2022
+South Africa,Africa,57.9,5.132,2023
+South Korea,Asia,71.78,4.823,2014
+South Korea,Asia,72,5.549,2015
+South Korea,Asia,72.275,5.831,2016
+South Korea,Asia,72.55,5.472,2017
+South Korea,Asia,72.825,4.443,2018
+South Korea,Asia,73.1,4.624,2019
+South Korea,Asia,73.375,4.487,2020
+South Korea,Asia,73.65,6.128,2021
+South Korea,Asia,73.801,6.894,2022
+South Korea,Asia,73.925,6.931,2023
+South Sudan,Africa,64,7.248,2014
+South Sudan,Africa,64.47,6.86,2015
+South Sudan,Africa,64.24,6.866,2016
+South Sudan,Africa,64.71,6.631,2017
+South Sudan,Africa,64.95,6.606,2018
+South Sudan,Africa,65.108,6.118,2019
+South Sudan,Africa,65.41,6.568,2020
+South Sudan,Africa,65.63,6.281,2021
+South Sudan,Africa,65.86,6.086,2022
+South Sudan,Africa,66.09,6.553,2023
+Spain,Europe,71.48,5.272,2014
+Spain,Europe,71.6,5.57,2015
+Spain,Europe,71.725,5.576,2016
+Spain,Europe,71.85,5.841,2017
+Spain,Europe,71.975,5.677,2018
+Spain,Europe,72.1,5.82,2019
+Spain,Europe,72.225,5.936,2020
+Spain,Europe,72.35,5.119,2021
+Spain,Europe,72.475,5.56,2022
+Spain,Europe,72.891,5.801,2023
+Sri Lanka,Asia,66.12,5.501,2014
+Sri Lanka,Asia,66.6,5.576,2015
+Sri Lanka,Asia,66.8,6.138,2017
+Sri Lanka,Asia,66.9,4.811,2018
+Sri Lanka,Asia,67,5.214,2019
+Sri Lanka,Asia,67.1,5.129,2020
+Sri Lanka,Asia,67.2,5.519,2021
+Sri Lanka,Asia,67.589,5.613,2022
+Sri Lanka,Asia,67.92,5.892,2023
+State of Palestine,Asia,73.24,5.866,2014
+State of Palestine,Asia,73.38,5.577,2015
+State of Palestine,Asia,73.53,5.701,2016
+State of Palestine,Asia,73.67,5.711,2017
+State of Palestine,Asia,73.82,5.68,2018
+State of Palestine,Asia,73.98,5.999,2019
+State of Palestine,Asia,74.14,4.994,2020
+State of Palestine,Asia,74.3,5.694,2021
+State of Palestine,Asia,74.46,5.892,2022
+State of Palestine,Asia,74.62,4.67,2023
+Sudan,Africa,57.94,4.88,2014
+Sudan,Africa,58.18,4.942,2015
+Sudan,Africa,58.66,4.994,2016
+Sudan,Africa,58.921,5.002,2017
+Sudan,Africa,59.053,4.977,2018
+Sudan,Africa,59.369,5.313,2019
+Sudan,Africa,59.701,5.547,2020
+Sudan,Africa,59.9,5.431,2021
+Sudan,Africa,60.254,5.594,2022
+Sudan,Africa,60.577,5.869,2023
+Sweden,Europe,71.36,5.965,2014
+Sweden,Europe,71.4,5.587,2015
+Sweden,Europe,71.525,5.886,2016
+Sweden,Europe,71.65,5.772,2017
+Sweden,Europe,71.775,5.887,2018
+Sweden,Europe,71.9,5.646,2019
+Sweden,Europe,72.025,5.876,2020
+Sweden,Europe,72.15,5.746,2021
+Sweden,Europe,72.275,5.75,2022
+Sweden,Europe,72.401,6.007,2023
+Switzerland,Europe,71.64,6.111,2014
+Switzerland,Europe,71.7,6.242,2015
+Switzerland,Europe,71.9,6.139,2016
+Switzerland,Europe,72.1,5.978,2017
+Switzerland,Europe,72.3,6.666,2018
+Switzerland,Europe,72.5,5.405,2019
+Switzerland,Europe,72.7,5.717,2020
+Switzerland,Europe,72.9,5.095,2021
+Switzerland,Europe,73.1,5.22,2022
+Switzerland,Europe,73.301,4.994,2023
+Syria,Asia,65.1,5.081,2014
+Syria,Asia,63.34,5.447,2015
+Syria,Asia,61.58,5.711,2016
+Syria,Asia,59.82,5.92,2017
+Syria,Asia,59.923,6.095,2018
+Syria,Asia,60.002,5.768,2019
+Syria,Asia,60.256,6.183,2020
+Syria,Asia,60.628,5.953,2021
+Syria,Asia,60.814,6.418,2022
+Syria,Asia,60.9,6.85,2023
+Taiwan ,Asia,79.45,6.375,2014
+Taiwan ,Asia,79.63,5.049,2015
+Taiwan ,Asia,79.82,5.394,2016
+Taiwan ,Asia,80,5.368,2017
+Taiwan ,Asia,80.19,4.909,2018
+Taiwan ,Asia,80.36,5.023,2019
+Taiwan ,Asia,80.53,5.167,2020
+Taiwan ,Asia,80.7,5.082,2021
+Taiwan ,Asia,80.87,5.727,2022
+Taiwan ,Asia,81.04,5.777,2023
+Tajikistan,Asia,61.2,6.151,2014
+Tajikistan,Asia,61.3,6.13,2015
+Tajikistan,Asia,61.4,6.785,2016
+Tajikistan,Asia,61.55,6.549,2017
+Tajikistan,Asia,61.7,6.437,2018
+Tajikistan,Asia,61.85,4.964,2019
+Tajikistan,Asia,62,5.223,2020
+Tajikistan,Asia,62.15,5.619,2021
+Tajikistan,Asia,62.3,5.158,2022
+Tanzania,Africa,55.021,5.621,2014
+Tanzania,Africa,55.389,5.537,2015
+Tanzania,Africa,55.611,6.037,2016
+Tanzania,Africa,55.872,5.996,2017
+Tanzania,Africa,56.011,5.855,2018
+Tanzania,Africa,56.284,5.579,2019
+Tanzania,Africa,56.299,5.514,2020
+Tanzania,Africa,56.714,5.441,2021
+Tanzania,Africa,56.926,5.495,2022
+Thailand,Asia,67.64,4.215,2014
+Thailand,Asia,67.82,4.363,2015
+Thailand,Asia,68,4.03,2016
+Thailand,Asia,68.075,4.097,2017
+Thailand,Asia,68.15,3.333,2018
+Thailand,Asia,68.225,3.466,2019
+Thailand,Asia,68.3,3.596,2020
+Thailand,Asia,68.375,3.483,2021
+Thailand,Asia,68.45,3.333,2021
+Thailand,Asia,68.525,3.108,2023
+Togo,Africa,52.44,7.08,2014
+Togo,Africa,53.76,7.267,2015
+Togo,Africa,54.2,6.811,2016
+Togo,Africa,54.7,6.148,2017
+Togo,Africa,55.2,6.307,2018
+Togo,Africa,55.7,6.7,2019
+Togo,Africa,56.2,6.396,2020
+Togo,Africa,57.2,6.495,2021
+Togo,Africa,57.7,6.278,2022
+Togo,Africa,57.901,6.345,2023
+Trinidad and Tobago,Americas,72.65,6.356,2014
+Trinidad and Tobago,Americas,72.81,6.561,2015
+Trinidad and Tobago,Americas,72.98,6.56,2016
+Trinidad and Tobago,Americas,73.14,6.445,2017
+Trinidad and Tobago,Americas,73.31,6.382,2018
+Trinidad and Tobago,Americas,73.43,4.417,2019
+Trinidad and Tobago,Americas,73.55,4.68,2020
+Trinidad and Tobago,Americas,73.67,4.683,2021
+Trinidad and Tobago,Americas,73.79,4.335,2022
+Trinidad and Tobago,Americas,73.91,4.372,2023
+Tunisia,Africa,66.62,3.647,2014
+Tunisia,Africa,66.7,4.395,2015
+Tunisia,Africa,66.75,4.617,2016
+Tunisia,Africa,66.8,4.595,2017
+Tunisia,Africa,66.85,4.683,2018
+Tunisia,Africa,66.9,4.769,2019
+Tunisia,Africa,66.95,5.489,2020
+Tunisia,Africa,67,4.757,2021
+Tunisia,Africa,67.05,4.903,2022
+Tunisia,Africa,67.21,4.907,2023
+Turkey,Asia,67.54,4.461,2014
+Turkey,Asia,67.7,4.815,2015
+Turkey,Asia,67.875,5.155,2016
+Turkey,Asia,68.05,5.102,2017
+Turkey,Asia,68.225,5.113,2018
+Turkey,Asia,68.4,5.318,2019
+Turkey,Asia,68.575,5.753,2020
+Turkey,Asia,68.75,5.122,2021
+Turkey,Asia,68.912,5.936,2022
+Turkey,Asia,69.021,6.241,2023
+Turkmenistan,Asia,61.38,3.628,2014
+Turkmenistan,Asia,61.7,3.585,2015
+Turkmenistan,Asia,61.8,2.997,2016
+Turkmenistan,Asia,61.9,4.134,2017
+Turkmenistan,Asia,62,4.502,2018
+Turkmenistan,Asia,62.1,4.514,2019
+Turkmenistan,Asia,62.486,4.5,2020
+Turkmenistan,Asia,62.71,4.909,2021
+Turkmenistan,Asia,62.942,4.733,2022
+Turkmenistan,Asia,63.01,4.09,2023
+Uganda,Africa,55.46,3.714,2014
+Uganda,Africa,56.3,2.56,2015
+Uganda,Africa,56.775,6.463,2016
+Uganda,Africa,57.25,6.834,2017
+Uganda,Africa,57.725,6.642,2018
+Uganda,Africa,58.2,6.145,2019
+Uganda,Africa,58.675,6.531,2020
+Uganda,Africa,59.15,6.561,2021
+Uganda,Africa,59.286,6.533,2022
+Uganda,Africa,59.44,7.062,2023
+Ukraine,Europe,63.48,6.378,2014
+Ukraine,Europe,63.8,6.375,2015
+Ukraine,Europe,63.925,6.378,2016
+Ukraine,Europe,64.05,6.587,2017
+Ukraine,Europe,64.175,5.265,2018
+Ukraine,Europe,64.3,6.052,2019
+Ukraine,Europe,64.425,5.945,2020
+Ukraine,Europe,64.55,5.911,2021
+Ukraine,Europe,64.675,5.937,2022
+Ukraine,Europe,64.842,6.139,2023
+United Arab Emirates,Asia,65.34,6.366,2014
+United Arab Emirates,Asia,65.4,6.235,2015
+United Arab Emirates,Asia,65.55,6.243,2016
+United Arab Emirates,Asia,65.7,6.519,2017
+United Arab Emirates,Asia,65.85,6.419,2018
+United Arab Emirates,Asia,66,5.811,2019
+United Arab Emirates,Asia,66.15,5.83,2020
+United Arab Emirates,Asia,66.3,6.083,2021
+United Arab Emirates,Asia,66.45,6.036,2022
+United Arab Emirates,Asia,66.8,6.063,2023
+United Kingdom,Europe,69.64,5.741,2014
+United Kingdom,Europe,69.7,5.937,2015
+United Kingdom,Europe,69.8,6.167,2016
+United Kingdom,Europe,69.9,6.249,2017
+United Kingdom,Europe,70,6.665,2018
+United Kingdom,Europe,70.1,6.462,2019
+United Kingdom,Europe,70.2,6.761,2020
+United Kingdom,Europe,70.3,6.723,2021
+United Kingdom,Europe,70.4,5.528,2022
+United Kingdom,Europe,70.8,5.354,2023
+United States,Americas,66.62,4.657,2014
+United States,Americas,66.6,4.931,2015
+United States,Americas,66.475,5.057,2016
+United States,Americas,66.35,5.084,2017
+United States,Americas,66.225,5.204,2018
+United States,Americas,66.1,5.346,2019
+United States,Americas,65.975,5.218,2020
+United States,Americas,65.85,4.652,2021
+United States,Americas,65.725,4.931,2022
+United States,Americas,65.982,5.134,2023
+Uruguay,Americas,67.34,4.887,2014
+Uruguay,Americas,67.42,4.77,2015
+Uruguay,Americas,67.5,4.514,2016
+Uruguay,Americas,67.5,4.884,2017
+Uruguay,Americas,67.5,5.035,2018
+Uruguay,Americas,67.5,4.947,2019
+Uruguay,Americas,67.5,5.599,2020
+Uruguay,Americas,67.5,5.332,2021
+Uruguay,Americas,67.5,5.767,2022
+Uruguay,Americas,67.5,5.39,2023
+Uzbekistan,Asia,63.02,6.947,2014
+Uzbekistan,Asia,63.26,6.003,2015
+Uzbekistan,Asia,63.5,5.959,2016
+Uzbekistan,Asia,63.8,5.801,2017
+Uzbekistan,Asia,64.1,5.78,2018
+Uzbekistan,Asia,64.4,5.971,2019
+Uzbekistan,Asia,64.7,5.874,2020
+Uzbekistan,Asia,65,5.84,2021
+Uzbekistan,Asia,65.3,5.903,2022
+Uzbekistan,Asia,65.6,5.793,2023
+Venezuela,Americas,65.18,3.832,2014
+Venezuela,Americas,65.14,4.071,2015
+Venezuela,Americas,65.1,2.888,2016
+Venezuela,Americas,64.925,2.817,2017
+Venezuela,Americas,64.75,7.153,2018
+Venezuela,Americas,64.575,6.995,2019
+Venezuela,Americas,64.4,7.294,2020
+Venezuela,Americas,64.225,6.199,2021
+Venezuela,Americas,64.05,6.188,2022
+Venezuela,Americas,63.875,6.518,2023
+Vietnam,Asia,64.74,6.456,2014
+Vietnam,Asia,64.82,6.381,2015
+Vietnam,Asia,64.9,6.319,2016
+Vietnam,Asia,65,6.23,2017
+Vietnam,Asia,65.1,6.513,2018
+Vietnam,Asia,65.2,6.457,2019
+Vietnam,Asia,65.3,6.502,2020
+Vietnam,Asia,65.4,6.47,2021
+Vietnam,Asia,65.5,6.337,2022
+Vietnam,Asia,65.6,4.345,2023
+Yemen,Asia,58.6,4.212,2014
+Yemen,Asia,58.56,3.977,2015
+Yemen,Asia,58.52,4.181,2016
+Yemen,Asia,58.48,4.225,2017
+Yemen,Asia,58.44,4.365,2018
+Yemen,Asia,58.4,4.268,2019
+Yemen,Asia,58.175,4.612,2020
+Yemen,Asia,57.95,4.331,2021
+Yemen,Asia,57.725,4.435,2022
+Yemen,Asia,57.5,4.213,2023
+Zambia,Africa,51.38,4.716,2014
+Zambia,Africa,52.04,4.151,2015
+Zambia,Africa,52.7,4.386,2016
+Zambia,Africa,53.125,4.47,2017
+Zambia,Africa,53.55,4.703,2018
+Zambia,Africa,53.975,4.751,2019
+Zambia,Africa,54.4,4.647,2020
+Zambia,Africa,54.825,4.844,2021
+Zambia,Africa,55.25,4.722,2022
+Zimbabwe,Africa,50,4.628,2014
+Zimbabwe,Africa,51.2,4.554,2015
+Zimbabwe,Africa,51.675,4.483,2016
+Zimbabwe,Africa,52.15,4.908,2017
+Zimbabwe,Africa,52.625,4.455,2018
+Zimbabwe,Africa,53.1,4.435,2019
+Zimbabwe,Africa,53.575,4.314,2020
+Zimbabwe,Africa,54.05,4.55,2021
+Zimbabwe,Africa,54.525,4.139,2022
+Zimbabwe,Africa,54.89,6.269,2023
