@@ -20,7 +20,10 @@ top_10_countries = sorted(data, key=lambda x: x[1], reverse=True)[:10]
 # Unpack the top 10 countries into two lists for plotting
 x, y = zip(*top_10_countries)
 
-plt.bar(x, y, color='c', width=0.5, label="CPI")
+plt.bar(x, y, color='b', width=0.5)
+for i in range(len(x)):
+    plt.text(i, y[i] + 0.5, str(y[i]), ha='center', va='bottom')
+
 plt.xlabel('Countries')
 plt.ylabel('Corruption Perceptions Index')
 plt.title('Top 10 CPI Scores 2023')
