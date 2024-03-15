@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Step 1: Read the CSV file into a pandas DataFrame
-file_path = 'CPI2021GlobalResults.csv'  # Use the correct path to your CSV file
+file_path = 'CPI2021GlobalResults.csv'
 
 cpi_data = pd.read_csv(file_path, skiprows=2)
 

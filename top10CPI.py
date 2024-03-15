@@ -27,7 +27,7 @@ for i in range(len(x)):
 plt.xlabel('Countries')
 plt.ylabel('Corruption Perceptions Index')
 plt.title('Top 10 CPI Scores 2023')
-plt.xticks(rotation=45)  # Rotate country names for better readability
+plt.xticks(rotation=45) 
 plt.legend()
-plt.tight_layout()  # Adjust layout to make room for the rotated x-axis labels
+plt.tight_layout()
 plt.show()
