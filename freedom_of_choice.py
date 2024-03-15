@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 
 
-happiness = pd.read_csv('data/happinessReport2023/cleanData/clean2023HappinessData.csv')
+happiness = pd.read_csv('data/WHR/cleanData/clean2023HappinessData.csv')
 
 # keeps values relevant to Freedom and Life Ladder as well as location
 freedom = happiness[['Country name', 'year', 'Life Ladder', 'Freedom to make life choices', 'Country Code', 'Continent', 'Region']]

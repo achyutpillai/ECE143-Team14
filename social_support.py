@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 
 # reads happiness report csv
-happiness = pd.read_csv('data/happinessReport2023/cleanData/clean2023HappinessData.csv')
+happiness = pd.read_csv('data/WHR/cleanData/clean2023HappinessData.csv')
 
 # saves only needed columns for social support
 social = happiness[['Country name', 'year','Life Ladder', 'Social support', 'Country Code', 'Continent', 'Region']]

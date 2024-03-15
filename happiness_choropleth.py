@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 
 #reads happienss report csv
-happiness = pd.read_csv('data/happinessReport2023/cleanData/clean2023HappinessData.csv')
+happiness = pd.read_csv('data/WHR/cleanData/clean2023HappinessData.csv')
 
 '''
 Happiness score or subjective well-being (variable name ladder): The survey

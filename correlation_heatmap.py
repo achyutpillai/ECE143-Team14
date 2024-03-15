@@ -5,7 +5,7 @@ import country_converter as coco #for country codes
 cc = coco.CountryConverter()
 
 #reads in happiness report, pollution, and healthcare access datasets
-happiness = pd.read_csv('data/happinessReport2023/cleanData/clean2023HappinessData.csv')
+happiness = pd.read_csv('data/WHR/cleanData/clean2023HappinessData.csv')
 pollution = pd.read_csv('data/pollution/pollution_dataset.csv')
 healthcare = pd.read_csv('data/healthcare/_hap.csv')
 

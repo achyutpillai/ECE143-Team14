@@ -14,7 +14,7 @@ def get_alpha3(country_name):
 
 
 # Happiness Report Data 2023
-file_path = 'data/happinessReport2023/DataForTable2.1WHR2023.xls'
+file_path = 'data/WHR/DataForTable2.1WHR2023.xls'
 
 happiness = pd.read_excel(file_path)
 
@@ -49,4 +49,4 @@ happiness.loc[happiness['Country name'] == 'South Sudan', 'Region'] = 'Eastern A
 happiness.loc[happiness['Country name'] == 'Kosovo', 'Region'] = 'Central Europe'
 
 # saves cleaned up dataframe as a csv
-happiness.to_csv('data/happinessReport2023/cleanData/clean2023HappinessData.csv', index=False)
+happiness.to_csv('data/WHR/cleanData/clean2023HappinessData.csv', index=False)
