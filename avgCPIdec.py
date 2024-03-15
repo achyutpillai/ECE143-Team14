@@ -10,6 +10,8 @@ cpi_score_columns = [col for col in cpi_data.columns if 'CPI score' in col]
 
 # Calculate the average CPI score for each year
 average_cpi_scores = cpi_data[cpi_score_columns].mean()
+average_cpi_scores.sort_index(ascending=True, inplace=True)
+
 
 # Create a line chart to display the average CPI scores
 plt.figure(figsize=(10, 5))

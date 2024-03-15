@@ -7,10 +7,11 @@ file_path = 'CPI2021GlobalResults.csv'
 cpi_data = pd.read_csv(file_path, skiprows=2)
 
 # Extract the columns that contain the yearly CPI scores
-cpi_score_columns = [col for col in cpi_data.columns if 'CPI score' in col]
+cpi_score_columns = sorted([col for col in cpi_data.columns if 'CPI score' in col], key=lambda x: int(x.split()[-1]))
 
 # Calculate the median CPI score for each year
 median_cpi_scores = cpi_data[cpi_score_columns].median()
+
 
 boxplot_data = [cpi_data[col].dropna() for col in cpi_score_columns]
 
