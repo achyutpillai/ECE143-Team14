@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#pip install -U kaleido
-
-
-# In[1]:
-
-
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -21,12 +9,8 @@ import plotly.graph_objects as go
 from plotly.offline import iplot
 import warnings
 
-
-# In[2]:
-
-
-happy_2023 = pd.read_csv("WHR2023.csv")
-country_mapping = pd.read_csv("continents.csv")
+happy_2023 = pd.read_csv("data/WHR/WHR2023.csv")
+country_mapping = pd.read_csv("data/WHR/continents.csv")
 
 # Dropping irrelevant columns
 country_mapping.drop('alpha-2', inplace=True, axis=1)
@@ -42,9 +26,6 @@ country_mapping.head()
 country_mapping = country_mapping.rename({'name':'country','alpha-3':'iso_alpha','sub-region':'sub_region'}, axis =1)
 
 
-# In[3]:
-
-
 happy_2023.loc[happy_2023.duplicated()]
 
 # Remove all columns between column name 'Ladder score in Dystopia' to 'Dystopia + residual' 
@@ -57,9 +38,6 @@ happy_2023['rank'] = happy_2023['Ladder score'].rank(ascending=False)
 happy_2023['rank'] = happy_2023['rank'].astype(int)
 
 
-# In[4]:
-
-
 happy_df_2023 = happy_2023.rename({'Country name':'country','Standard error of ladder score':'standard_error_of_ladder_score'
                                    , 'Ladder score':'happiness_score','Happiness score':'happiness_score'
                                    , 'Logged GDP per capita':'gdp_per_capita','Social support':'social_support'
@@ -70,9 +48,6 @@ happy_df_2023 = happy_2023.rename({'Country name':'country','Standard error of l
                                    , 'Explained by: Generosity':'generosity'
                                    , 'Explained by: Perceptions of corruption':'perceptions_of_corruption'}, axis =1)
 happy_df_2023.head()
-
-
-# In[5]:
 
 
 #Lets change the names in the country_mapping df to match those of the happiness report where appropriate
@@ -93,22 +68,13 @@ country_mapping['country'] = country_mapping['country'].str.replace('Taiwan', 'T
 country_mapping['country'] = country_mapping['country'].str.replace('Czech Republic', 'Czechia', regex=True)
 
 
-# In[6]:
-
-
 #Merge the dataframes again
 happy_region_df = happy_df_2023.merge(country_mapping, on='country', how='left')
-
-
-# In[7]:
 
 
 #Lets fix the nulls in the last four rows manually
 nan_region_rows = happy_region_df[happy_region_df['region'].isnull()]
 nan_region_rows
-
-
-# In[8]:
 
 
 #Manually updating region, sub_region and iso code for Kosovo
@@ -132,9 +98,6 @@ happy_region_df.loc[132,'sub_region'] = 'Sub-Saharan Africa'
 happy_region_df.loc[132,'iso_alpha'] = 'COD'
 
 
-# In[11]:
-
-
 import plotly.express as px
 
 # Assuming happy_region_df and other necessary variables are already defined
@@ -153,10 +116,3 @@ fig.update_layout(coloraxis_colorbar_title='Happiness Score')
 
 fig.write_image(file='Sunburst.png', format='png')
 fig.show()
-
-
-# In[ ]:
-
-
-
-

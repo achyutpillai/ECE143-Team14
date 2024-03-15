@@ -4,7 +4,7 @@ import numpy as np
 
 
 # Read the data
-data = pd.read_csv('clean2023HappinessData.csv')
+data = pd.read_csv('data/WHR/clean2023HappinessData.csv')
 data_clean = data.dropna(subset=['Life Ladder', 'Perceptions of corruption'])
 
 

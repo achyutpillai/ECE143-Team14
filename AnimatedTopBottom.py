@@ -5,8 +5,8 @@ import pandas as pd
 import plotly as py
 import plotly.graph_objs as go
 import plotly.express as px
-from plotly.offline import init_notebook_mode
-init_notebook_mode(connected = True)
+# from plotly.offline import init_notebook_mode
+# init_notebook_mode(connected = True)
 import seaborn as sns
 
 import matplotlib.pyplot as plt
@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings("ignore")
 
-df = pd.read_csv('world-happiness-report.csv')
+df = pd.read_csv('data/WHR/world-happiness-report.csv')
 print(df.columns)
 
 

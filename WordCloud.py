@@ -1,10 +1,8 @@
-
 from wordcloud import WordCloud 
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('cleaned_hm.csv') 
+df = pd.read_csv('data/wordCloud/cleaned_hm.csv') 
 print(df.columns) # Printing the column names to verify the data
 
 
@@ -24,7 +22,7 @@ plt.axis("off")
 plt.tight_layout(pad = 0) 
 
 #Save the word cloud
-plt.savefig('wordcloud.png')
+plt.savefig('images/general/wordcloud.png')
 plt.show()
 
 
