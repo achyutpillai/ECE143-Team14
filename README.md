@@ -8,10 +8,10 @@ Riya Joshi : A59023015\
 Tripti Chanda : A59015561**
 
 ## External Libraries Used
-- Pandas
-- Plotly
-- Matplotlib
-- pivottablejs
+- pandas
+- numpy
+- plotly
+- matplotlib
 - pycountry
 - pycountry_convert
 - seaborn
@@ -19,4 +19,3 @@ Tripti Chanda : A59015561**
 - country_converter
 - kaleido
 - openpyxl
-- pivottablejs
