@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib import cm
 from matplotlib.colors import Normalize
 
-df = pd.read_csv('C:/Users/alexi/Documents/ECE 143/Final Project/pollution_dataset.csv')
+df = pd.read_csv('data/pollution/pollution_dataset.csv')
 columns_to_keep = ['Country', 'AQI Value']
 df = df[columns_to_keep]
 df = df.sort_values(by='AQI Value', ascending=False)

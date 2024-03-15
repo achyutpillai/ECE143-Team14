@@ -40,8 +40,8 @@ mpl.rcParams.update({
 })
 
 # Load datasets
-data_current_year = pd.read_csv("WHR2023.csv")
-data_historical = pd.read_csv("world-happiness-report.csv")
+data_current_year = pd.read_csv("data/WHR/WHR2023.csv")
+data_historical = pd.read_csv("data/WHR/world-happiness-report.csv")
 
 # Extract components of happiness from the dataset
 happiness_components = list(data_current_year.columns[-7:-1])

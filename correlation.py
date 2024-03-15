@@ -4,7 +4,7 @@ import numpy as np
 from pycountry_convert import country_name_to_country_alpha2, country_alpha2_to_continent_code, convert_continent_code_to_continent_name
 
 # Read pollution dataset
-df_pollution = pd.read_csv('C:/Users/alexi/Documents/ECE 143/Final Project/pollution_dataset.csv')
+df_pollution = pd.read_csv('data/pollution/pollution_dataset.csv')
 df_pollution = df_pollution[['Country', 'AQI Value']]
 df_pollution = df_pollution.sort_values(by='AQI Value', ascending=False)
 df_pollution = df_pollution.drop_duplicates(subset=['Country'], keep='first')

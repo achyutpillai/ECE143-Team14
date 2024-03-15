@@ -6,8 +6,8 @@ import seaborn as sns
 import plotly.graph_objects as go
 
 
-df = pd.read_csv('WHR2023.csv')
-df1=pd.read_csv('world-happiness-report.csv')
+df = pd.read_csv('data/WHR/WHR2023.csv')
+df1=pd.read_csv('data/WHR/world-happiness-report.csv')
 import warnings
 warnings.filterwarnings("ignore")
 
