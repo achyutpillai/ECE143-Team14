@@ -17,3 +17,4 @@ Tripti Chanda : A59015561**
 - seaborn
 - scikit-learn
 - country_converter
+- kaleido
