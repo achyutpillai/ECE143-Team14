@@ -114,5 +114,5 @@ fig = px.sunburst(data_frame=happy_region_df,
 # Here's how you update the legend title
 fig.update_layout(coloraxis_colorbar_title='Happiness Score')
 
-fig.write_image(file='Sunburst.png', format='png')
+fig.write_image(file='images/general/Sunburst.png', format='png')
 fig.show()

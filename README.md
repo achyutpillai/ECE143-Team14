@@ -18,3 +18,5 @@ Tripti Chanda : A59015561**
 - scikit-learn
 - country_converter
 - kaleido
+- openpyxl
+- pivottablejs
