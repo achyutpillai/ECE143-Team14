@@ -41,7 +41,7 @@ for s in ['left', 'right', 'top', 'bottom']:
     ax2.spines[s].set_visible(False)
 
 # Save the figure
-plt.savefig("top_and_bottom_countries_happiness_2023.png", dpi=300, bbox_inches='tight')
+plt.savefig("images/general/top_and_bottom_countries_happiness_2023.png", dpi=300, bbox_inches='tight')
 
 plt.show()
 
@@ -79,7 +79,7 @@ fig.update_layout(
   showlegend=True
 )
 
-fig.write_image("radar_comparison_plot.png")
+fig.write_image("images/general/radar_comparison_plot.png")
 fig.show()
 
 

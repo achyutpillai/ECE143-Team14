@@ -124,6 +124,6 @@ fig = go.Figure(
 
 fig.update_layout(showlegend=True, xaxis_title="Happiness Score", yaxis_title="Country")
 
-fig.write_html("happiness_report_animation.html")
+fig.write_html("images/general/happiness_report_animation.html")
 fig.show()
 

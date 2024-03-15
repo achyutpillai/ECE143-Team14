@@ -73,7 +73,7 @@ axis.legend(data_finland.index, title="Components", loc='upper center', bbox_to_
 plt.suptitle(t="Breakdown of Finland's Happiness Score", fontsize=24, fontweight='bold', color=dark_theme_colors[0])
 plt.title("GDP significantly influences Finland's score, with perceptions of corruption contributing up to 10%", fontsize=13, color=dark_theme_colors[2])
 plt.tight_layout()
-plt.savefig('Visual_Finland.png', dpi=300, bbox_inches='tight')
+plt.savefig('images/general/Visual_Finland.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 # Visualizing data for Lebanon

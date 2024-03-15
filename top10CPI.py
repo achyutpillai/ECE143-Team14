@@ -6,7 +6,7 @@ y = []
 data = []
 
   
-with open('cpidata2023.csv','r') as csvfile: 
+with open('data/corruption/cpidata2023.csv','r') as csvfile: 
     plots = csv.reader(csvfile, delimiter = ',')
     next(plots, None) 
       

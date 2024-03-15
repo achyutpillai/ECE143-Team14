@@ -10,7 +10,7 @@ from plotly.offline import iplot
 import warnings
 
 happy_2023 = pd.read_csv("data/WHR/WHR2023.csv")
-country_mapping = pd.read_csv("data/WHR/continents.csv")
+country_mapping = pd.read_csv("data/continents/continents.csv")
 
 # Dropping irrelevant columns
 country_mapping.drop('alpha-2', inplace=True, axis=1)

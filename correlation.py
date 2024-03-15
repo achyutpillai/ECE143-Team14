@@ -10,7 +10,7 @@ df_pollution = df_pollution.sort_values(by='AQI Value', ascending=False)
 df_pollution = df_pollution.drop_duplicates(subset=['Country'], keep='first')
 
 # Read happiness index dataset
-df_happiness = pd.read_csv('C:/Users/alexi/Documents/ECE 143/Final Project/happinessindex.csv')
+df_happiness = pd.read_csv('data//happinessindex.csv')
 df_happiness = df_happiness[['Country name', 'Ladder score']]
 
 # Merge datasets
