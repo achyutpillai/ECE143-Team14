@@ -25,6 +25,7 @@ plt.bar(x, y, color='r', width=0.5)
 for i in range(len(x)):
     plt.text(i, y[i] + 0.5, str(y[i]), ha='center', va='bottom')
 
+# Plot the bottom 10 countries
 plt.xlabel('Countries')
 plt.ylabel('Corruption Perceptions Index')
 plt.title('Bottom 10 CPI Scores 2023')
